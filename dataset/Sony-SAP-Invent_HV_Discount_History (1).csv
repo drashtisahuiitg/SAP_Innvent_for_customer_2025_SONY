@@ -1,0 +1,2693 @@
+Model,YEAR,WEEK,Discount in USD
+Product 2,2020,WK15,20
+Product 2,2020,WK16,20
+Product 2,2020,WK17,20
+Product 2,2020,WK18,20
+Product 2,2020,WK19,20
+Product 2,2020,WK20,20
+Product 2,2020,WK21,20
+Product 2,2020,WK22,20
+Product 2,2020,WK23,20
+Product 2,2020,WK24,20
+Product 2,2020,WK25,20
+Product 2,2020,WK26,20
+Product 2,2020,WK27,20
+Product 2,2020,WK28,20
+Product 2,2020,WK29,20
+Product 2,2020,WK30,20
+Product 2,2020,WK31,20
+Product 2,2020,WK32,20
+Product 2,2020,WK33,20
+Product 2,2020,WK34,20
+Product 2,2020,WK35,20
+Product 2,2020,WK36,20
+Product 2,2020,WK37,20
+Product 2,2020,WK38,20
+Product 2,2020,WK39,20
+Product 2,2020,WK40,25
+Product 2,2020,WK41,25
+Product 2,2020,WK42,25
+Product 2,2020,WK43,20
+Product 2,2020,WK44,25
+Product 2,2020,WK45,20
+Product 2,2020,WK46,25
+Product 2,2020,WK47,30
+Product 2,2020,WK48,30
+Product 2,2020,WK49,30
+Product 2,2020,WK50,30
+Product 2,2020,WK51,30
+Product 2,2020,WK52,30
+Product 2,2020,WK53,30
+Product 3,2020,WK15,40
+Product 3,2020,WK16,40
+Product 3,2020,WK17,40
+Product 3,2020,WK18,40
+Product 3,2020,WK19,40
+Product 3,2020,WK20,40
+Product 3,2020,WK21,40
+Product 3,2020,WK22,40
+Product 3,2020,WK23,40
+Product 3,2020,WK24,40
+Product 3,2020,WK25,40
+Product 3,2020,WK26,40
+Product 3,2020,WK27,40
+Product 3,2020,WK28,40
+Product 3,2020,WK29,40
+Product 3,2020,WK30,40
+Product 3,2020,WK31,40
+Product 3,2020,WK32,40
+Product 3,2020,WK33,40
+Product 3,2020,WK34,40
+Product 3,2020,WK35,40
+Product 3,2020,WK36,40
+Product 3,2020,WK37,40
+Product 3,2020,WK38,40
+Product 3,2020,WK39,40
+Product 3,2020,WK40,50
+Product 3,2020,WK41,50
+Product 3,2020,WK42,50
+Product 3,2020,WK43,40
+Product 3,2020,WK44,50
+Product 3,2020,WK45,40
+Product 3,2020,WK46,40
+Product 3,2020,WK47,50
+Product 3,2020,WK48,50
+Product 3,2020,WK49,50
+Product 3,2020,WK50,50
+Product 3,2020,WK51,50
+Product 3,2020,WK52,50
+Product 3,2020,WK53,50
+Product 4,2020,WK15,80
+Product 4,2020,WK16,80
+Product 4,2020,WK17,80
+Product 4,2020,WK18,80
+Product 4,2020,WK19,80
+Product 4,2020,WK20,80
+Product 4,2020,WK21,80
+Product 4,2020,WK22,80
+Product 4,2020,WK23,80
+Product 4,2020,WK24,80
+Product 4,2020,WK25,80
+Product 4,2020,WK26,80
+Product 4,2020,WK27,80
+Product 4,2020,WK28,80
+Product 4,2020,WK29,80
+Product 4,2020,WK30,80
+Product 4,2020,WK31,80
+Product 4,2020,WK32,80
+Product 4,2020,WK33,80
+Product 4,2020,WK34,80
+Product 4,2020,WK35,80
+Product 4,2020,WK36,80
+Product 4,2020,WK37,80
+Product 4,2020,WK38,80
+Product 4,2020,WK39,80
+Product 4,2020,WK40,80
+Product 4,2020,WK41,80
+Product 4,2020,WK42,80
+Product 4,2020,WK43,80
+Product 4,2020,WK44,90
+Product 4,2020,WK45,80
+Product 4,2020,WK46,80
+Product 4,2020,WK47,90
+Product 4,2020,WK48,90
+Product 4,2020,WK49,90
+Product 4,2020,WK50,90
+Product 4,2020,WK51,90
+Product 4,2020,WK52,90
+Product 4,2020,WK53,80
+Product 5,2020,WK15,
+Product 5,2020,WK16,
+Product 5,2020,WK17,
+Product 5,2020,WK18,
+Product 5,2020,WK19,
+Product 5,2020,WK20,
+Product 5,2020,WK21,
+Product 5,2020,WK22,
+Product 5,2020,WK23,
+Product 5,2020,WK24,
+Product 5,2020,WK25,
+Product 5,2020,WK26,
+Product 5,2020,WK27,
+Product 5,2020,WK28,
+Product 5,2020,WK29,
+Product 5,2020,WK30,
+Product 5,2020,WK31,
+Product 5,2020,WK32,
+Product 5,2020,WK33,
+Product 5,2020,WK34,
+Product 5,2020,WK35,
+Product 5,2020,WK36,
+Product 5,2020,WK37,
+Product 5,2020,WK38,
+Product 5,2020,WK39,
+Product 5,2020,WK40,
+Product 5,2020,WK41,
+Product 5,2020,WK42,
+Product 5,2020,WK43,
+Product 5,2020,WK44,
+Product 5,2020,WK45,
+Product 5,2020,WK46,
+Product 5,2020,WK47,
+Product 5,2020,WK48,
+Product 5,2020,WK49,
+Product 5,2020,WK50,
+Product 5,2020,WK51,
+Product 5,2020,WK52,
+Product 5,2020,WK53,
+Product 6,2020,WK15,
+Product 6,2020,WK16,
+Product 6,2020,WK17,
+Product 6,2020,WK18,
+Product 6,2020,WK19,
+Product 6,2020,WK20,
+Product 6,2020,WK21,
+Product 6,2020,WK22,
+Product 6,2020,WK23,
+Product 6,2020,WK24,
+Product 6,2020,WK25,
+Product 6,2020,WK26,
+Product 6,2020,WK27,
+Product 6,2020,WK28,
+Product 6,2020,WK29,
+Product 6,2020,WK30,
+Product 6,2020,WK31,
+Product 6,2020,WK32,
+Product 6,2020,WK33,
+Product 6,2020,WK34,
+Product 6,2020,WK35,
+Product 6,2020,WK36,
+Product 6,2020,WK37,
+Product 6,2020,WK38,
+Product 6,2020,WK39,
+Product 6,2020,WK40,
+Product 6,2020,WK41,
+Product 6,2020,WK42,
+Product 6,2020,WK43,
+Product 6,2020,WK44,
+Product 6,2020,WK45,
+Product 6,2020,WK46,
+Product 6,2020,WK47,
+Product 6,2020,WK48,
+Product 6,2020,WK49,
+Product 6,2020,WK50,
+Product 6,2020,WK51,
+Product 6,2020,WK52,
+Product 6,2020,WK53,
+#N/A,2020,WK15,100
+#N/A,2020,WK16,100
+#N/A,2020,WK17,100
+#N/A,2020,WK18,100
+#N/A,2020,WK19,100
+#N/A,2020,WK20,100
+#N/A,2020,WK21,100
+#N/A,2020,WK22,100
+#N/A,2020,WK23,100
+#N/A,2020,WK24,
+#N/A,2020,WK25,
+#N/A,2020,WK26,100
+#N/A,2020,WK27,100
+#N/A,2020,WK28,100
+#N/A,2020,WK29,100
+#N/A,2020,WK30,100
+#N/A,2020,WK31,100
+#N/A,2020,WK32,100
+#N/A,2020,WK33,100
+#N/A,2020,WK34,100
+#N/A,2020,WK35,100
+#N/A,2020,WK36,100
+#N/A,2020,WK37,100
+#N/A,2020,WK38,
+#N/A,2020,WK39,
+#N/A,2020,WK40,100
+#N/A,2020,WK41,100
+#N/A,2020,WK42,100
+#N/A,2020,WK43,100
+#N/A,2020,WK44,100
+#N/A,2020,WK45,100
+#N/A,2020,WK46,100
+#N/A,2020,WK47,100
+#N/A,2020,WK48,100
+#N/A,2020,WK49,100
+#N/A,2020,WK50,100
+#N/A,2020,WK51,100
+#N/A,2020,WK52,100
+#N/A,2020,WK53,
+Product 7,2020,WK15,50
+Product 7,2020,WK16,50
+Product 7,2020,WK17,50
+Product 7,2020,WK18,50
+Product 7,2020,WK19,50
+Product 7,2020,WK20,50
+Product 7,2020,WK21,50
+Product 7,2020,WK22,50
+Product 7,2020,WK23,50
+Product 7,2020,WK24,50
+Product 7,2020,WK25,50
+Product 7,2020,WK26,50
+Product 7,2020,WK27,50
+Product 7,2020,WK28,
+Product 7,2020,WK29,
+Product 7,2020,WK30,50
+Product 7,2020,WK31,50
+Product 7,2020,WK32,50
+Product 7,2020,WK33,50
+Product 7,2020,WK34,50
+Product 7,2020,WK35,50
+Product 7,2020,WK36,50
+Product 7,2020,WK37,50
+Product 7,2020,WK38,
+Product 7,2020,WK39,
+Product 7,2020,WK40,50
+Product 7,2020,WK41,50
+Product 7,2020,WK42,50
+Product 7,2020,WK43,50
+Product 7,2020,WK44,50
+Product 7,2020,WK45,80
+Product 7,2020,WK46,100
+Product 7,2020,WK47,100
+Product 7,2020,WK48,100
+Product 7,2020,WK49,100
+Product 7,2020,WK50,100
+Product 7,2020,WK51,100
+Product 7,2020,WK52,100
+Product 7,2020,WK53,100
+Product 9,2020,WK15,
+Product 9,2020,WK16,
+Product 9,2020,WK17,
+Product 9,2020,WK18,50
+Product 9,2020,WK19,50
+Product 9,2020,WK20,50
+Product 9,2020,WK21,50
+Product 9,2020,WK22,50
+Product 9,2020,WK23,50
+Product 9,2020,WK24,50
+Product 9,2020,WK25,50
+Product 9,2020,WK26,50
+Product 9,2020,WK27,50
+Product 9,2020,WK28,
+Product 9,2020,WK29,
+Product 9,2020,WK30,50
+Product 9,2020,WK31,
+Product 9,2020,WK32,
+Product 9,2020,WK33,
+Product 9,2020,WK34,
+Product 9,2020,WK35,
+Product 9,2020,WK36,
+Product 9,2020,WK37,
+Product 9,2020,WK38,
+Product 9,2020,WK39,
+Product 9,2020,WK40,50
+Product 9,2020,WK41,50
+Product 9,2020,WK42,50
+Product 9,2020,WK43,50
+Product 9,2020,WK44,50
+Product 9,2020,WK45,50
+Product 9,2020,WK46,50
+Product 9,2020,WK47,50
+Product 9,2020,WK48,100
+Product 9,2020,WK49,100
+Product 9,2020,WK50,50
+Product 9,2020,WK51,50
+Product 9,2020,WK52,100
+Product 9,2020,WK53,
+Product 1,2021,WK13,
+Product 1,2021,WK14,
+Product 1,2021,WK15,40
+Product 1,2021,WK16,40
+Product 1,2021,WK17,40
+Product 1,2021,WK18,40
+Product 1,2021,WK19,40
+Product 1,2021,WK20,40
+Product 1,2021,WK21,40
+Product 1,2021,WK22,40
+Product 1,2021,WK23,40
+Product 1,2021,WK24,10
+Product 1,2021,WK25,10
+Product 1,2021,WK26,10
+Product 1,2021,WK27,5
+Product 1,2021,WK28,5
+Product 1,2021,WK29,10
+Product 1,2021,WK30,5
+Product 1,2021,WK31,5
+Product 1,2021,WK32,5
+Product 1,2021,WK33,5
+Product 1,2021,WK34,5
+Product 1,2021,WK35,10
+Product 1,2021,WK36,10
+Product 1,2021,WK37,
+Product 1,2021,WK38,
+Product 1,2021,WK39,
+Product 1,2021,WK40,
+Product 1,2021,WK41,
+Product 1,2021,WK42,10
+Product 1,2021,WK43,10
+Product 1,2021,WK44,10
+Product 1,2021,WK45,10
+Product 1,2021,WK46,10
+Product 1,2021,WK47,10
+Product 1,2021,WK48,10
+Product 1,2021,WK49,
+Product 1,2021,WK50,10
+Product 1,2021,WK51,10
+Product 1,2021,WK52,
+Product 2,2021,WK1,20
+Product 2,2021,WK10,25
+Product 2,2021,WK11,20
+Product 2,2021,WK12,20
+Product 2,2021,WK13,20
+Product 2,2021,WK14,20
+Product 2,2021,WK15,20
+Product 2,2021,WK16,20
+Product 2,2021,WK17,20
+Product 2,2021,WK18,20
+Product 2,2021,WK19,20
+Product 2,2021,WK2,20
+Product 2,2021,WK20,20
+Product 2,2021,WK21,20
+Product 2,2021,WK22,20
+Product 2,2021,WK23,20
+Product 2,2021,WK24,10
+Product 2,2021,WK25,10
+Product 2,2021,WK26,10
+Product 2,2021,WK27,5
+Product 2,2021,WK28,5
+Product 2,2021,WK29,10
+Product 2,2021,WK3,25
+Product 2,2021,WK30,5
+Product 2,2021,WK31,5
+Product 2,2021,WK32,5
+Product 2,2021,WK33,5
+Product 2,2021,WK34,5
+Product 2,2021,WK35,10
+Product 2,2021,WK36,10
+Product 2,2021,WK37,
+Product 2,2021,WK38,
+Product 2,2021,WK39,
+Product 2,2021,WK4,25
+Product 2,2021,WK40,
+Product 2,2021,WK41,
+Product 2,2021,WK42,10
+Product 2,2021,WK43,5
+Product 2,2021,WK44,5
+Product 2,2021,WK45,5
+Product 2,2021,WK46,5
+Product 2,2021,WK47,10
+Product 2,2021,WK48,10
+Product 2,2021,WK49,
+Product 2,2021,WK5,25
+Product 2,2021,WK50,10
+Product 2,2021,WK51,10
+Product 2,2021,WK52,
+Product 2,2021,WK6,20
+Product 2,2021,WK7,20
+Product 2,2021,WK8,20
+Product 2,2021,WK9,25
+Product 3,2021,WK1,40
+Product 3,2021,WK10,50
+Product 3,2021,WK11,50
+Product 3,2021,WK12,50
+Product 3,2021,WK13,40
+Product 3,2021,WK14,40
+Product 3,2021,WK15,40
+Product 3,2021,WK16,40
+Product 3,2021,WK17,40
+Product 3,2021,WK18,40
+Product 3,2021,WK19,40
+Product 3,2021,WK2,40
+Product 3,2021,WK20,40
+Product 3,2021,WK21,40
+Product 3,2021,WK22,40
+Product 3,2021,WK23,40
+Product 3,2021,WK24,10
+Product 3,2021,WK25,10
+Product 3,2021,WK26,10
+Product 3,2021,WK27,5
+Product 3,2021,WK28,5
+Product 3,2021,WK29,10
+Product 3,2021,WK3,50
+Product 3,2021,WK30,5
+Product 3,2021,WK31,5
+Product 3,2021,WK32,5
+Product 3,2021,WK33,5
+Product 3,2021,WK34,5
+Product 3,2021,WK35,
+Product 3,2021,WK36,
+Product 3,2021,WK37,
+Product 3,2021,WK38,
+Product 3,2021,WK39,
+Product 3,2021,WK4,50
+Product 3,2021,WK40,
+Product 3,2021,WK41,
+Product 3,2021,WK42,
+Product 3,2021,WK43,
+Product 3,2021,WK44,
+Product 3,2021,WK45,
+Product 3,2021,WK46,
+Product 3,2021,WK47,
+Product 3,2021,WK48,
+Product 3,2021,WK49,
+Product 3,2021,WK5,50
+Product 3,2021,WK50,
+Product 3,2021,WK51,
+Product 3,2021,WK52,
+Product 3,2021,WK6,40
+Product 3,2021,WK7,40
+Product 3,2021,WK8,40
+Product 3,2021,WK9,50
+Product 4,2021,WK1,80
+Product 4,2021,WK10,80
+Product 4,2021,WK11,80
+Product 4,2021,WK12,80
+Product 4,2021,WK13,80
+Product 4,2021,WK14,80
+Product 4,2021,WK15,80
+Product 4,2021,WK16,80
+Product 4,2021,WK17,80
+Product 4,2021,WK18,80
+Product 4,2021,WK19,80
+Product 4,2021,WK2,80
+Product 4,2021,WK20,80
+Product 4,2021,WK21,80
+Product 4,2021,WK22,80
+Product 4,2021,WK23,80
+Product 4,2021,WK24,80
+Product 4,2021,WK25,80
+Product 4,2021,WK26,80
+Product 4,2021,WK27,80
+Product 4,2021,WK28,80
+Product 4,2021,WK29,80
+Product 4,2021,WK3,80
+Product 4,2021,WK30,80
+Product 4,2021,WK31,80
+Product 4,2021,WK32,80
+Product 4,2021,WK33,80
+Product 4,2021,WK34,80
+Product 4,2021,WK35,80
+Product 4,2021,WK36,80
+Product 4,2021,WK37,80
+Product 4,2021,WK38,80
+Product 4,2021,WK39,80
+Product 4,2021,WK4,80
+Product 4,2021,WK40,80
+Product 4,2021,WK41,80
+Product 4,2021,WK42,80
+Product 4,2021,WK43,80
+Product 4,2021,WK44,80
+Product 4,2021,WK45,80
+Product 4,2021,WK46,80
+Product 4,2021,WK47,80
+Product 4,2021,WK48,80
+Product 4,2021,WK49,80
+Product 4,2021,WK5,80
+Product 4,2021,WK50,80
+Product 4,2021,WK51,80
+Product 4,2021,WK52,80
+Product 4,2021,WK6,80
+Product 4,2021,WK7,80
+Product 4,2021,WK8,80
+Product 4,2021,WK9,80
+Product 5,2021,WK1,
+Product 5,2021,WK10,
+Product 5,2021,WK11,
+Product 5,2021,WK12,
+Product 5,2021,WK13,
+Product 5,2021,WK14,
+Product 5,2021,WK15,
+Product 5,2021,WK16,
+Product 5,2021,WK17,
+Product 5,2021,WK18,
+Product 5,2021,WK19,
+Product 5,2021,WK2,
+Product 5,2021,WK20,
+Product 5,2021,WK21,
+Product 5,2021,WK22,
+Product 5,2021,WK23,
+Product 5,2021,WK24,
+Product 5,2021,WK25,
+Product 5,2021,WK26,
+Product 5,2021,WK27,
+Product 5,2021,WK28,
+Product 5,2021,WK29,
+Product 5,2021,WK3,
+Product 5,2021,WK30,
+Product 5,2021,WK31,
+Product 5,2021,WK32,
+Product 5,2021,WK33,
+Product 5,2021,WK34,
+Product 5,2021,WK35,
+Product 5,2021,WK36,
+Product 5,2021,WK37,
+Product 5,2021,WK38,
+Product 5,2021,WK39,
+Product 5,2021,WK4,
+Product 5,2021,WK40,
+Product 5,2021,WK41,
+Product 5,2021,WK42,
+Product 5,2021,WK43,
+Product 5,2021,WK44,
+Product 5,2021,WK45,
+Product 5,2021,WK46,
+Product 5,2021,WK47,
+Product 5,2021,WK48,
+Product 5,2021,WK49,
+Product 5,2021,WK5,
+Product 5,2021,WK50,
+Product 5,2021,WK51,
+Product 5,2021,WK52,
+Product 5,2021,WK6,
+Product 5,2021,WK7,
+Product 5,2021,WK8,
+Product 5,2021,WK9,
+Product 6,2021,WK1,
+Product 6,2021,WK10,
+Product 6,2021,WK11,
+Product 6,2021,WK12,
+Product 6,2021,WK13,
+Product 6,2021,WK14,
+Product 6,2021,WK15,
+Product 6,2021,WK16,
+Product 6,2021,WK17,
+Product 6,2021,WK18,
+Product 6,2021,WK19,
+Product 6,2021,WK2,
+Product 6,2021,WK20,
+Product 6,2021,WK21,
+Product 6,2021,WK22,
+Product 6,2021,WK23,
+Product 6,2021,WK24,
+Product 6,2021,WK25,
+Product 6,2021,WK26,
+Product 6,2021,WK27,
+Product 6,2021,WK28,
+Product 6,2021,WK29,
+Product 6,2021,WK3,
+Product 6,2021,WK30,
+Product 6,2021,WK31,
+Product 6,2021,WK32,
+Product 6,2021,WK33,
+Product 6,2021,WK34,
+Product 6,2021,WK35,
+Product 6,2021,WK36,
+Product 6,2021,WK37,
+Product 6,2021,WK38,
+Product 6,2021,WK39,
+Product 6,2021,WK4,
+Product 6,2021,WK40,
+Product 6,2021,WK41,
+Product 6,2021,WK42,
+Product 6,2021,WK43,
+Product 6,2021,WK44,
+Product 6,2021,WK45,
+Product 6,2021,WK46,
+Product 6,2021,WK47,
+Product 6,2021,WK48,
+Product 6,2021,WK49,
+Product 6,2021,WK5,
+Product 6,2021,WK50,
+Product 6,2021,WK51,
+Product 6,2021,WK52,
+Product 6,2021,WK6,
+Product 6,2021,WK7,
+Product 6,2021,WK8,
+Product 6,2021,WK9,
+#N/A,2021,WK1,
+#N/A,2021,WK10,
+#N/A,2021,WK11,
+#N/A,2021,WK12,
+#N/A,2021,WK13,
+#N/A,2021,WK14,
+#N/A,2021,WK15,
+#N/A,2021,WK16,
+#N/A,2021,WK17,
+#N/A,2021,WK18,
+#N/A,2021,WK19,
+#N/A,2021,WK2,
+#N/A,2021,WK20,
+#N/A,2021,WK21,
+#N/A,2021,WK22,
+#N/A,2021,WK23,
+#N/A,2021,WK24,
+#N/A,2021,WK25,
+#N/A,2021,WK26,
+#N/A,2021,WK27,
+#N/A,2021,WK28,
+#N/A,2021,WK29,
+#N/A,2021,WK3,100
+#N/A,2021,WK30,
+#N/A,2021,WK31,
+#N/A,2021,WK32,
+#N/A,2021,WK33,
+#N/A,2021,WK34,
+#N/A,2021,WK35,
+#N/A,2021,WK36,
+#N/A,2021,WK37,
+#N/A,2021,WK38,
+#N/A,2021,WK39,
+#N/A,2021,WK4,100
+#N/A,2021,WK40,
+#N/A,2021,WK41,
+#N/A,2021,WK42,
+#N/A,2021,WK43,
+#N/A,2021,WK44,
+#N/A,2021,WK45,
+#N/A,2021,WK46,
+#N/A,2021,WK47,
+#N/A,2021,WK48,
+#N/A,2021,WK49,
+#N/A,2021,WK5,100
+#N/A,2021,WK50,
+#N/A,2021,WK51,
+#N/A,2021,WK52,
+#N/A,2021,WK6,100
+#N/A,2021,WK7,100
+#N/A,2021,WK8,100
+#N/A,2021,WK9,
+Product 7,2021,WK1,
+Product 7,2021,WK10,50
+Product 7,2021,WK11,50
+Product 7,2021,WK12,50
+Product 7,2021,WK13,
+Product 7,2021,WK14,
+Product 7,2021,WK15,
+Product 7,2021,WK16,
+Product 7,2021,WK17,
+Product 7,2021,WK18,
+Product 7,2021,WK19,
+Product 7,2021,WK2,
+Product 7,2021,WK20,50
+Product 7,2021,WK21,50
+Product 7,2021,WK22,50
+Product 7,2021,WK23,50
+Product 7,2021,WK24,70
+Product 7,2021,WK25,70
+Product 7,2021,WK26,50
+Product 7,2021,WK27,50
+Product 7,2021,WK28,50
+Product 7,2021,WK29,70
+Product 7,2021,WK3,50
+Product 7,2021,WK30,50
+Product 7,2021,WK31,50
+Product 7,2021,WK32,50
+Product 7,2021,WK33,
+Product 7,2021,WK34,
+Product 7,2021,WK35,
+Product 7,2021,WK36,
+Product 7,2021,WK37,
+Product 7,2021,WK38,
+Product 7,2021,WK39,
+Product 7,2021,WK4,70
+Product 7,2021,WK40,
+Product 7,2021,WK41,
+Product 7,2021,WK42,
+Product 7,2021,WK43,
+Product 7,2021,WK44,
+Product 7,2021,WK45,
+Product 7,2021,WK46,
+Product 7,2021,WK47,
+Product 7,2021,WK48,
+Product 7,2021,WK49,
+Product 7,2021,WK5,70
+Product 7,2021,WK50,
+Product 7,2021,WK51,
+Product 7,2021,WK52,
+Product 7,2021,WK6,50
+Product 7,2021,WK7,50
+Product 7,2021,WK8,50
+Product 7,2021,WK9,50
+#N/A,2021,WK13,
+#N/A,2021,WK14,
+#N/A,2021,WK15,
+#N/A,2021,WK16,
+#N/A,2021,WK17,
+#N/A,2021,WK18,
+#N/A,2021,WK19,
+#N/A,2021,WK20,50
+#N/A,2021,WK21,50
+#N/A,2021,WK22,50
+#N/A,2021,WK23,50
+#N/A,2021,WK24,70
+#N/A,2021,WK25,70
+#N/A,2021,WK26,70
+#N/A,2021,WK27,50
+#N/A,2021,WK28,50
+#N/A,2021,WK29,70
+#N/A,2021,WK30,
+#N/A,2021,WK31,
+#N/A,2021,WK32,
+#N/A,2021,WK33,
+#N/A,2021,WK34,
+#N/A,2021,WK35,50
+#N/A,2021,WK36,50
+#N/A,2021,WK37,
+#N/A,2021,WK38,
+#N/A,2021,WK39,
+#N/A,2021,WK40,
+#N/A,2021,WK41,
+#N/A,2021,WK42,50
+#N/A,2021,WK43,
+#N/A,2021,WK44,100
+#N/A,2021,WK45,70
+#N/A,2021,WK46,70
+#N/A,2021,WK47,100
+#N/A,2021,WK48,100
+#N/A,2021,WK49,70
+#N/A,2021,WK50,70
+#N/A,2021,WK51,70
+#N/A,2021,WK52,100
+Product 9,2021,WK1,
+Product 9,2021,WK10,
+Product 9,2021,WK11,
+Product 9,2021,WK12,50
+Product 9,2021,WK13,
+Product 9,2021,WK14,
+Product 9,2021,WK15,
+Product 9,2021,WK16,
+Product 9,2021,WK17,
+Product 9,2021,WK18,
+Product 9,2021,WK19,
+Product 9,2021,WK2,
+Product 9,2021,WK20,50
+Product 9,2021,WK21,50
+Product 9,2021,WK22,50
+Product 9,2021,WK23,50
+Product 9,2021,WK24,50
+Product 9,2021,WK25,50
+Product 9,2021,WK26,50
+Product 9,2021,WK27,50
+Product 9,2021,WK28,50
+Product 9,2021,WK29,50
+Product 9,2021,WK3,
+Product 9,2021,WK30,30
+Product 9,2021,WK31,30
+Product 9,2021,WK32,
+Product 9,2021,WK33,
+Product 9,2021,WK34,
+Product 9,2021,WK35,50
+Product 9,2021,WK36,50
+Product 9,2021,WK37,
+Product 9,2021,WK38,
+Product 9,2021,WK39,
+Product 9,2021,WK4,50
+Product 9,2021,WK40,
+Product 9,2021,WK41,
+Product 9,2021,WK42,
+Product 9,2021,WK43,
+Product 9,2021,WK44,
+Product 9,2021,WK45,
+Product 9,2021,WK46,
+Product 9,2021,WK47,100
+Product 9,2021,WK48,100
+Product 9,2021,WK49,
+Product 9,2021,WK5,50
+Product 9,2021,WK50,
+Product 9,2021,WK51,
+Product 9,2021,WK52,50
+Product 9,2021,WK6,50
+Product 9,2021,WK7,50
+Product 9,2021,WK8,
+Product 9,2021,WK9,
+Product 1,2022,WK1,
+Product 1,2022,WK10,
+Product 1,2022,WK11,
+Product 1,2022,WK12,
+Product 1,2022,WK13,
+Product 1,2022,WK14,
+Product 1,2022,WK15,
+Product 1,2022,WK16,
+Product 1,2022,WK17,
+Product 1,2022,WK18,
+Product 1,2022,WK19,
+Product 1,2022,WK2,
+Product 1,2022,WK20,
+Product 1,2022,WK21,10
+Product 1,2022,WK22,10
+Product 1,2022,WK23,10
+Product 1,2022,WK24,10
+Product 1,2022,WK25,
+Product 1,2022,WK26,
+Product 1,2022,WK27,
+Product 1,2022,WK28,10
+Product 1,2022,WK29,10
+Product 1,2022,WK3,
+Product 1,2022,WK30,10
+Product 1,2022,WK31,
+Product 1,2022,WK32,
+Product 1,2022,WK33,
+Product 1,2022,WK34,10
+Product 1,2022,WK35,10
+Product 1,2022,WK36,10
+Product 1,2022,WK37,
+Product 1,2022,WK38,10
+Product 1,2022,WK39,10
+Product 1,2022,WK4,
+Product 1,2022,WK40,
+Product 1,2022,WK41,10
+Product 1,2022,WK42,
+Product 1,2022,WK43,10
+Product 1,2022,WK44,10
+Product 1,2022,WK45,10
+Product 1,2022,WK46,15
+Product 1,2022,WK47,15
+Product 1,2022,WK48,15
+Product 1,2022,WK49,15
+Product 1,2022,WK5,
+Product 1,2022,WK50,15
+Product 1,2022,WK51,15
+Product 1,2022,WK52,15
+Product 1,2022,WK6,
+Product 1,2022,WK7,
+Product 1,2022,WK8,
+Product 1,2022,WK9,
+Product 2,2022,WK1,
+Product 2,2022,WK10,
+Product 2,2022,WK11,
+Product 2,2022,WK12,
+Product 2,2022,WK13,
+Product 2,2022,WK14,
+Product 2,2022,WK15,
+Product 2,2022,WK16,
+Product 2,2022,WK17,
+Product 2,2022,WK18,
+Product 2,2022,WK19,
+Product 2,2022,WK2,
+Product 2,2022,WK20,
+Product 2,2022,WK21,
+Product 2,2022,WK22,
+Product 2,2022,WK23,10
+Product 2,2022,WK24,10
+Product 2,2022,WK25,
+Product 2,2022,WK26,
+Product 2,2022,WK27,
+Product 2,2022,WK28,10
+Product 2,2022,WK29,5
+Product 2,2022,WK3,
+Product 2,2022,WK30,5
+Product 2,2022,WK31,
+Product 2,2022,WK32,
+Product 2,2022,WK33,
+Product 2,2022,WK34,5
+Product 2,2022,WK35,5
+Product 2,2022,WK36,5
+Product 2,2022,WK37,
+Product 2,2022,WK38,5
+Product 2,2022,WK39,5
+Product 2,2022,WK4,
+Product 2,2022,WK40,
+Product 2,2022,WK41,
+Product 2,2022,WK42,5
+Product 2,2022,WK43,5
+Product 2,2022,WK44,5
+Product 2,2022,WK45,5
+Product 2,2022,WK46,10
+Product 2,2022,WK47,10
+Product 2,2022,WK48,10
+Product 2,2022,WK49,10
+Product 2,2022,WK5,
+Product 2,2022,WK50,10
+Product 2,2022,WK51,10
+Product 2,2022,WK52,5
+Product 2,2022,WK6,
+Product 2,2022,WK7,
+Product 2,2022,WK8,
+Product 2,2022,WK9,
+Product 3,2022,WK1,
+Product 3,2022,WK10,
+Product 3,2022,WK11,
+Product 3,2022,WK12,
+Product 3,2022,WK13,
+Product 3,2022,WK14,
+Product 3,2022,WK15,
+Product 3,2022,WK16,
+Product 3,2022,WK17,
+Product 3,2022,WK18,
+Product 3,2022,WK19,
+Product 3,2022,WK2,
+Product 3,2022,WK20,
+Product 3,2022,WK21,
+Product 3,2022,WK22,
+Product 3,2022,WK23,
+Product 3,2022,WK24,
+Product 3,2022,WK25,
+Product 3,2022,WK26,
+Product 3,2022,WK27,
+Product 3,2022,WK28,
+Product 3,2022,WK29,
+Product 3,2022,WK3,
+Product 3,2022,WK30,
+Product 3,2022,WK31,
+Product 3,2022,WK32,
+Product 3,2022,WK33,
+Product 3,2022,WK34,
+Product 3,2022,WK35,
+Product 3,2022,WK36,
+Product 3,2022,WK37,
+Product 3,2022,WK38,
+Product 3,2022,WK39,
+Product 3,2022,WK4,
+Product 3,2022,WK40,
+Product 3,2022,WK41,
+Product 3,2022,WK42,
+Product 3,2022,WK43,
+Product 3,2022,WK44,
+Product 3,2022,WK45,
+Product 3,2022,WK46,
+Product 3,2022,WK47,
+Product 3,2022,WK48,
+Product 3,2022,WK49,
+Product 3,2022,WK5,
+Product 3,2022,WK50,
+Product 3,2022,WK51,
+Product 3,2022,WK52,
+Product 3,2022,WK6,
+Product 3,2022,WK7,
+Product 3,2022,WK8,
+Product 3,2022,WK9,
+Product 4,2022,WK1,80
+Product 4,2022,WK10,
+Product 4,2022,WK11,
+Product 4,2022,WK12,
+Product 4,2022,WK13,
+Product 4,2022,WK14,
+Product 4,2022,WK15,
+Product 4,2022,WK16,
+Product 4,2022,WK17,
+Product 4,2022,WK18,
+Product 4,2022,WK19,
+Product 4,2022,WK2,80
+Product 4,2022,WK20,
+Product 4,2022,WK21,10
+Product 4,2022,WK22,10
+Product 4,2022,WK23,10
+Product 4,2022,WK24,10
+Product 4,2022,WK25,
+Product 4,2022,WK26,20
+Product 4,2022,WK27,20
+Product 4,2022,WK28,20
+Product 4,2022,WK29,20
+Product 4,2022,WK3,80
+Product 4,2022,WK30,20
+Product 4,2022,WK31,20
+Product 4,2022,WK32,
+Product 4,2022,WK33,
+Product 4,2022,WK34,20
+Product 4,2022,WK35,20
+Product 4,2022,WK36,20
+Product 4,2022,WK37,
+Product 4,2022,WK38,20
+Product 4,2022,WK39,20
+Product 4,2022,WK4,80
+Product 4,2022,WK40,
+Product 4,2022,WK41,
+Product 4,2022,WK42,10
+Product 4,2022,WK43,10
+Product 4,2022,WK44,10
+Product 4,2022,WK45,10
+Product 4,2022,WK46,20
+Product 4,2022,WK47,20
+Product 4,2022,WK48,20
+Product 4,2022,WK49,20
+Product 4,2022,WK5,
+Product 4,2022,WK50,20
+Product 4,2022,WK51,20
+Product 4,2022,WK52,20
+Product 4,2022,WK6,
+Product 4,2022,WK7,
+Product 4,2022,WK8,
+Product 4,2022,WK9,
+Product 5,2022,WK1,
+Product 5,2022,WK10,
+Product 5,2022,WK11,
+Product 5,2022,WK12,
+Product 5,2022,WK13,
+Product 5,2022,WK14,
+Product 5,2022,WK15,
+Product 5,2022,WK16,
+Product 5,2022,WK17,
+Product 5,2022,WK18,
+Product 5,2022,WK19,
+Product 5,2022,WK2,
+Product 5,2022,WK20,
+Product 5,2022,WK21,
+Product 5,2022,WK22,
+Product 5,2022,WK23,
+Product 5,2022,WK24,
+Product 5,2022,WK25,
+Product 5,2022,WK26,
+Product 5,2022,WK27,
+Product 5,2022,WK28,
+Product 5,2022,WK29,
+Product 5,2022,WK3,
+Product 5,2022,WK30,
+Product 5,2022,WK31,
+Product 5,2022,WK32,
+Product 5,2022,WK33,
+Product 5,2022,WK34,
+Product 5,2022,WK35,
+Product 5,2022,WK36,
+Product 5,2022,WK37,
+Product 5,2022,WK38,
+Product 5,2022,WK39,
+Product 5,2022,WK4,
+Product 5,2022,WK40,
+Product 5,2022,WK41,
+Product 5,2022,WK42,
+Product 5,2022,WK43,
+Product 5,2022,WK44,
+Product 5,2022,WK45,
+Product 5,2022,WK46,
+Product 5,2022,WK47,
+Product 5,2022,WK48,
+Product 5,2022,WK49,
+Product 5,2022,WK5,
+Product 5,2022,WK50,
+Product 5,2022,WK51,
+Product 5,2022,WK52,
+Product 5,2022,WK6,
+Product 5,2022,WK7,
+Product 5,2022,WK8,
+Product 5,2022,WK9,
+Product 6,2022,WK1,
+Product 6,2022,WK10,
+Product 6,2022,WK11,
+Product 6,2022,WK12,
+Product 6,2022,WK13,
+Product 6,2022,WK14,
+Product 6,2022,WK15,
+Product 6,2022,WK16,
+Product 6,2022,WK17,
+Product 6,2022,WK18,
+Product 6,2022,WK19,
+Product 6,2022,WK2,
+Product 6,2022,WK20,
+Product 6,2022,WK21,
+Product 6,2022,WK22,
+Product 6,2022,WK23,
+Product 6,2022,WK24,
+Product 6,2022,WK25,
+Product 6,2022,WK26,
+Product 6,2022,WK27,
+Product 6,2022,WK28,
+Product 6,2022,WK29,
+Product 6,2022,WK3,
+Product 6,2022,WK30,
+Product 6,2022,WK31,
+Product 6,2022,WK32,
+Product 6,2022,WK33,
+Product 6,2022,WK34,
+Product 6,2022,WK35,
+Product 6,2022,WK36,
+Product 6,2022,WK37,
+Product 6,2022,WK38,
+Product 6,2022,WK39,
+Product 6,2022,WK4,
+Product 6,2022,WK40,
+Product 6,2022,WK41,
+Product 6,2022,WK42,
+Product 6,2022,WK43,
+Product 6,2022,WK44,
+Product 6,2022,WK45,
+Product 6,2022,WK46,
+Product 6,2022,WK47,
+Product 6,2022,WK48,
+Product 6,2022,WK49,
+Product 6,2022,WK5,
+Product 6,2022,WK50,
+Product 6,2022,WK51,
+Product 6,2022,WK52,
+Product 6,2022,WK6,
+Product 6,2022,WK7,
+Product 6,2022,WK8,
+Product 6,2022,WK9,
+#N/A,2022,WK1,
+#N/A,2022,WK10,
+#N/A,2022,WK11,
+#N/A,2022,WK12,
+#N/A,2022,WK2,
+#N/A,2022,WK3,
+#N/A,2022,WK4,
+#N/A,2022,WK5,
+#N/A,2022,WK6,
+#N/A,2022,WK7,
+#N/A,2022,WK8,
+#N/A,2022,WK9,
+Product 7,2022,WK1,
+Product 7,2022,WK10,
+Product 7,2022,WK11,
+Product 7,2022,WK12,
+Product 7,2022,WK13,
+Product 7,2022,WK14,
+Product 7,2022,WK15,
+Product 7,2022,WK16,
+Product 7,2022,WK17,
+Product 7,2022,WK18,
+Product 7,2022,WK19,
+Product 7,2022,WK2,
+Product 7,2022,WK20,
+Product 7,2022,WK21,
+Product 7,2022,WK22,
+Product 7,2022,WK23,
+Product 7,2022,WK24,
+Product 7,2022,WK25,
+Product 7,2022,WK26,
+Product 7,2022,WK27,
+Product 7,2022,WK28,
+Product 7,2022,WK29,
+Product 7,2022,WK3,
+Product 7,2022,WK30,
+Product 7,2022,WK31,
+Product 7,2022,WK32,
+Product 7,2022,WK33,
+Product 7,2022,WK34,
+Product 7,2022,WK35,
+Product 7,2022,WK36,
+Product 7,2022,WK37,
+Product 7,2022,WK38,
+Product 7,2022,WK39,
+Product 7,2022,WK4,
+Product 7,2022,WK40,
+Product 7,2022,WK41,
+Product 7,2022,WK42,
+Product 7,2022,WK43,
+Product 7,2022,WK44,
+Product 7,2022,WK45,
+Product 7,2022,WK46,
+Product 7,2022,WK47,
+Product 7,2022,WK48,
+Product 7,2022,WK49,
+Product 7,2022,WK5,
+Product 7,2022,WK50,
+Product 7,2022,WK51,
+Product 7,2022,WK52,
+Product 7,2022,WK6,
+Product 7,2022,WK7,
+Product 7,2022,WK8,
+Product 7,2022,WK9,
+#N/A,2022,WK1,100
+#N/A,2022,WK10,
+#N/A,2022,WK11,
+#N/A,2022,WK12,
+#N/A,2022,WK13,
+#N/A,2022,WK14,
+#N/A,2022,WK15,
+#N/A,2022,WK16,60
+#N/A,2022,WK17,60
+#N/A,2022,WK18,60
+#N/A,2022,WK19,
+#N/A,2022,WK2,50
+#N/A,2022,WK20,
+#N/A,2022,WK21,60
+#N/A,2022,WK22,60
+#N/A,2022,WK23,80
+#N/A,2022,WK24,80
+#N/A,2022,WK25,60
+#N/A,2022,WK26,60
+#N/A,2022,WK27,80
+#N/A,2022,WK28,80
+#N/A,2022,WK29,80
+#N/A,2022,WK3,70
+#N/A,2022,WK30,80
+#N/A,2022,WK31,
+#N/A,2022,WK32,
+#N/A,2022,WK33,80
+#N/A,2022,WK34,80
+#N/A,2022,WK35,80
+#N/A,2022,WK36,80
+#N/A,2022,WK37,
+#N/A,2022,WK38,80
+#N/A,2022,WK39,80
+#N/A,2022,WK4,70
+#N/A,2022,WK40,
+#N/A,2022,WK41,80
+#N/A,2022,WK42,60
+#N/A,2022,WK43,60
+#N/A,2022,WK44,60
+#N/A,2022,WK45,60
+#N/A,2022,WK46,100
+#N/A,2022,WK47,100
+#N/A,2022,WK48,100
+#N/A,2022,WK49,80
+#N/A,2022,WK5,
+#N/A,2022,WK50,100
+#N/A,2022,WK51,100
+#N/A,2022,WK52,
+#N/A,2022,WK6,
+#N/A,2022,WK7,60
+#N/A,2022,WK8,60
+#N/A,2022,WK9,
+Product 9,2022,WK1,50
+Product 9,2022,WK10,
+Product 9,2022,WK11,
+Product 9,2022,WK12,
+Product 9,2022,WK13,30
+Product 9,2022,WK14,30
+Product 9,2022,WK15,30
+Product 9,2022,WK16,
+Product 9,2022,WK17,50
+Product 9,2022,WK18,50
+Product 9,2022,WK19,
+Product 9,2022,WK2,50
+Product 9,2022,WK20,
+Product 9,2022,WK21,50
+Product 9,2022,WK22,50
+Product 9,2022,WK23,80
+Product 9,2022,WK24,80
+Product 9,2022,WK25,50
+Product 9,2022,WK26,50
+Product 9,2022,WK27,80
+Product 9,2022,WK28,80
+Product 9,2022,WK29,80
+Product 9,2022,WK3,100
+Product 9,2022,WK30,80
+Product 9,2022,WK31,
+Product 9,2022,WK32,
+Product 9,2022,WK33,80
+Product 9,2022,WK34,50
+Product 9,2022,WK35,50
+Product 9,2022,WK36,50
+Product 9,2022,WK37,
+Product 9,2022,WK38,80
+Product 9,2022,WK39,50
+Product 9,2022,WK4,100
+Product 9,2022,WK40,
+Product 9,2022,WK41,50
+Product 9,2022,WK42,50
+Product 9,2022,WK43,80
+Product 9,2022,WK44,50
+Product 9,2022,WK45,50
+Product 9,2022,WK46,80
+Product 9,2022,WK47,80
+Product 9,2022,WK48,80
+Product 9,2022,WK49,80
+Product 9,2022,WK5,
+Product 9,2022,WK50,80
+Product 9,2022,WK51,80
+Product 9,2022,WK52,80
+Product 9,2022,WK6,
+Product 9,2022,WK7,
+Product 9,2022,WK8,
+Product 9,2022,WK9,30
+Product 1,2023,WK1,10
+Product 1,2023,WK10,10
+Product 1,2023,WK11,10
+Product 1,2023,WK12,
+Product 1,2023,WK13,
+Product 1,2023,WK14,
+Product 1,2023,WK15,
+Product 1,2023,WK16,
+Product 1,2023,WK17,
+Product 1,2023,WK18,
+Product 1,2023,WK19,
+Product 1,2023,WK2,
+Product 1,2023,WK20,10
+Product 1,2023,WK21,10
+Product 1,2023,WK22,10
+Product 1,2023,WK23,10
+Product 1,2023,WK24,10
+Product 1,2023,WK25,
+Product 1,2023,WK26,10
+Product 1,2023,WK27,10
+Product 1,2023,WK28,
+Product 1,2023,WK29,
+Product 1,2023,WK3,
+Product 1,2023,WK30,
+Product 1,2023,WK31,
+Product 1,2023,WK32,
+Product 1,2023,WK33,
+Product 1,2023,WK34,
+Product 1,2023,WK35,
+Product 1,2023,WK36,
+Product 1,2023,WK37,
+Product 1,2023,WK38,
+Product 1,2023,WK39,
+Product 1,2023,WK4,10
+Product 1,2023,WK40,
+Product 1,2023,WK41,
+Product 1,2023,WK42,
+Product 1,2023,WK43,
+Product 1,2023,WK44,
+Product 1,2023,WK45,
+Product 1,2023,WK46,
+Product 1,2023,WK47,
+Product 1,2023,WK48,
+Product 1,2023,WK49,
+Product 1,2023,WK5,10
+Product 1,2023,WK50,
+Product 1,2023,WK51,
+Product 1,2023,WK52,
+Product 1,2023,WK6,
+Product 1,2023,WK7,10
+Product 1,2023,WK8,
+Product 1,2023,WK9,10
+Product 2,2023,WK1,5
+Product 2,2023,WK10,
+Product 2,2023,WK11,
+Product 2,2023,WK12,5
+Product 2,2023,WK13,5
+Product 2,2023,WK14,5
+Product 2,2023,WK15,5
+Product 2,2023,WK16,5
+Product 2,2023,WK17,5
+Product 2,2023,WK18,
+Product 2,2023,WK19,
+Product 2,2023,WK2,
+Product 2,2023,WK20,
+Product 2,2023,WK21,5
+Product 2,2023,WK22,5
+Product 2,2023,WK23,5
+Product 2,2023,WK24,5
+Product 2,2023,WK25,
+Product 2,2023,WK26,
+Product 2,2023,WK27,5
+Product 2,2023,WK28,5
+Product 2,2023,WK29,
+Product 2,2023,WK3,
+Product 2,2023,WK30,
+Product 2,2023,WK31,
+Product 2,2023,WK32,
+Product 2,2023,WK33,
+Product 2,2023,WK34,
+Product 2,2023,WK35,
+Product 2,2023,WK36,
+Product 2,2023,WK37,
+Product 2,2023,WK38,
+Product 2,2023,WK39,
+Product 2,2023,WK4,5
+Product 2,2023,WK40,
+Product 2,2023,WK41,
+Product 2,2023,WK42,
+Product 2,2023,WK43,
+Product 2,2023,WK44,
+Product 2,2023,WK45,
+Product 2,2023,WK46,
+Product 2,2023,WK47,
+Product 2,2023,WK48,
+Product 2,2023,WK49,
+Product 2,2023,WK5,5
+Product 2,2023,WK50,
+Product 2,2023,WK51,
+Product 2,2023,WK52,
+Product 2,2023,WK6,
+Product 2,2023,WK7,5
+Product 2,2023,WK8,
+Product 2,2023,WK9,
+Product 3,2023,WK1,
+Product 3,2023,WK10,
+Product 3,2023,WK11,
+Product 3,2023,WK12,
+Product 3,2023,WK13,
+Product 3,2023,WK14,
+Product 3,2023,WK15,
+Product 3,2023,WK16,
+Product 3,2023,WK17,
+Product 3,2023,WK18,
+Product 3,2023,WK19,
+Product 3,2023,WK2,
+Product 3,2023,WK20,
+Product 3,2023,WK21,
+Product 3,2023,WK22,
+Product 3,2023,WK23,
+Product 3,2023,WK24,
+Product 3,2023,WK25,
+Product 3,2023,WK26,
+Product 3,2023,WK27,
+Product 3,2023,WK28,
+Product 3,2023,WK29,
+Product 3,2023,WK3,
+Product 3,2023,WK30,
+Product 3,2023,WK31,
+Product 3,2023,WK32,
+Product 3,2023,WK33,
+Product 3,2023,WK34,
+Product 3,2023,WK35,
+Product 3,2023,WK36,
+Product 3,2023,WK37,
+Product 3,2023,WK38,
+Product 3,2023,WK39,
+Product 3,2023,WK4,
+Product 3,2023,WK40,
+Product 3,2023,WK41,
+Product 3,2023,WK42,
+Product 3,2023,WK43,
+Product 3,2023,WK44,
+Product 3,2023,WK45,
+Product 3,2023,WK46,
+Product 3,2023,WK47,
+Product 3,2023,WK48,
+Product 3,2023,WK49,
+Product 3,2023,WK5,
+Product 3,2023,WK50,
+Product 3,2023,WK51,
+Product 3,2023,WK52,
+Product 3,2023,WK6,
+Product 3,2023,WK7,
+Product 3,2023,WK8,
+Product 3,2023,WK9,
+Product 4,2023,WK1,10
+Product 4,2023,WK10,20
+Product 4,2023,WK11,20
+Product 4,2023,WK12,20
+Product 4,2023,WK13,20
+Product 4,2023,WK14,20
+Product 4,2023,WK15,20
+Product 4,2023,WK16,20
+Product 4,2023,WK17,20
+Product 4,2023,WK18,
+Product 4,2023,WK19,
+Product 4,2023,WK2,
+Product 4,2023,WK20,
+Product 4,2023,WK21,
+Product 4,2023,WK22,20
+Product 4,2023,WK23,20
+Product 4,2023,WK24,20
+Product 4,2023,WK25,
+Product 4,2023,WK26,
+Product 4,2023,WK27,20
+Product 4,2023,WK28,20
+Product 4,2023,WK29,
+Product 4,2023,WK3,
+Product 4,2023,WK30,
+Product 4,2023,WK31,
+Product 4,2023,WK32,
+Product 4,2023,WK33,
+Product 4,2023,WK34,
+Product 4,2023,WK35,
+Product 4,2023,WK36,
+Product 4,2023,WK37,
+Product 4,2023,WK38,
+Product 4,2023,WK39,
+Product 4,2023,WK4,20
+Product 4,2023,WK40,
+Product 4,2023,WK41,
+Product 4,2023,WK42,
+Product 4,2023,WK43,
+Product 4,2023,WK44,
+Product 4,2023,WK45,
+Product 4,2023,WK46,
+Product 4,2023,WK47,
+Product 4,2023,WK48,
+Product 4,2023,WK49,
+Product 4,2023,WK5,20
+Product 4,2023,WK50,
+Product 4,2023,WK51,
+Product 4,2023,WK52,
+Product 4,2023,WK6,20
+Product 4,2023,WK7,20
+Product 4,2023,WK8,
+Product 4,2023,WK9,
+Product 5,2023,WK1,
+Product 5,2023,WK10,
+Product 5,2023,WK11,
+Product 5,2023,WK12,
+Product 5,2023,WK13,
+Product 5,2023,WK14,
+Product 5,2023,WK15,
+Product 5,2023,WK16,
+Product 5,2023,WK17,
+Product 5,2023,WK18,
+Product 5,2023,WK19,
+Product 5,2023,WK2,
+Product 5,2023,WK20,
+Product 5,2023,WK21,
+Product 5,2023,WK22,
+Product 5,2023,WK23,
+Product 5,2023,WK24,
+Product 5,2023,WK25,
+Product 5,2023,WK26,
+Product 5,2023,WK27,
+Product 5,2023,WK28,
+Product 5,2023,WK29,
+Product 5,2023,WK3,
+Product 5,2023,WK30,
+Product 5,2023,WK31,
+Product 5,2023,WK32,
+Product 5,2023,WK33,
+Product 5,2023,WK34,
+Product 5,2023,WK35,
+Product 5,2023,WK36,
+Product 5,2023,WK37,
+Product 5,2023,WK38,
+Product 5,2023,WK39,
+Product 5,2023,WK4,
+Product 5,2023,WK40,
+Product 5,2023,WK41,
+Product 5,2023,WK42,
+Product 5,2023,WK43,
+Product 5,2023,WK44,
+Product 5,2023,WK45,
+Product 5,2023,WK46,
+Product 5,2023,WK47,
+Product 5,2023,WK48,
+Product 5,2023,WK49,
+Product 5,2023,WK5,
+Product 5,2023,WK50,
+Product 5,2023,WK51,
+Product 5,2023,WK52,
+Product 5,2023,WK6,
+Product 5,2023,WK7,
+Product 5,2023,WK8,
+Product 5,2023,WK9,
+Product 6,2023,WK1,
+Product 6,2023,WK10,
+Product 6,2023,WK11,
+Product 6,2023,WK12,
+Product 6,2023,WK13,
+Product 6,2023,WK14,
+Product 6,2023,WK15,
+Product 6,2023,WK16,
+Product 6,2023,WK17,
+Product 6,2023,WK18,
+Product 6,2023,WK19,
+Product 6,2023,WK2,
+Product 6,2023,WK20,
+Product 6,2023,WK21,
+Product 6,2023,WK22,
+Product 6,2023,WK23,
+Product 6,2023,WK24,
+Product 6,2023,WK25,
+Product 6,2023,WK26,
+Product 6,2023,WK27,
+Product 6,2023,WK28,
+Product 6,2023,WK29,
+Product 6,2023,WK3,
+Product 6,2023,WK30,
+Product 6,2023,WK31,
+Product 6,2023,WK32,
+Product 6,2023,WK33,
+Product 6,2023,WK34,
+Product 6,2023,WK35,
+Product 6,2023,WK36,
+Product 6,2023,WK37,
+Product 6,2023,WK38,
+Product 6,2023,WK39,
+Product 6,2023,WK4,
+Product 6,2023,WK40,
+Product 6,2023,WK41,
+Product 6,2023,WK42,
+Product 6,2023,WK43,
+Product 6,2023,WK44,
+Product 6,2023,WK45,
+Product 6,2023,WK46,
+Product 6,2023,WK47,
+Product 6,2023,WK48,
+Product 6,2023,WK49,
+Product 6,2023,WK5,
+Product 6,2023,WK50,
+Product 6,2023,WK51,
+Product 6,2023,WK52,
+Product 6,2023,WK6,
+Product 6,2023,WK7,
+Product 6,2023,WK8,
+Product 6,2023,WK9,
+Product 7,2023,WK1,
+Product 7,2023,WK10,
+Product 7,2023,WK11,
+Product 7,2023,WK12,
+Product 7,2023,WK13,
+Product 7,2023,WK14,
+Product 7,2023,WK15,
+Product 7,2023,WK16,
+Product 7,2023,WK17,
+Product 7,2023,WK18,
+Product 7,2023,WK19,
+Product 7,2023,WK2,
+Product 7,2023,WK20,
+Product 7,2023,WK21,
+Product 7,2023,WK22,
+Product 7,2023,WK23,
+Product 7,2023,WK24,
+Product 7,2023,WK25,
+Product 7,2023,WK26,
+Product 7,2023,WK27,
+Product 7,2023,WK28,
+Product 7,2023,WK29,
+Product 7,2023,WK3,
+Product 7,2023,WK30,
+Product 7,2023,WK31,
+Product 7,2023,WK32,
+Product 7,2023,WK33,
+Product 7,2023,WK34,
+Product 7,2023,WK35,
+Product 7,2023,WK36,
+Product 7,2023,WK37,
+Product 7,2023,WK38,
+Product 7,2023,WK39,
+Product 7,2023,WK4,
+Product 7,2023,WK40,
+Product 7,2023,WK41,
+Product 7,2023,WK42,
+Product 7,2023,WK43,
+Product 7,2023,WK44,
+Product 7,2023,WK45,
+Product 7,2023,WK46,
+Product 7,2023,WK47,
+Product 7,2023,WK48,
+Product 7,2023,WK49,
+Product 7,2023,WK5,
+Product 7,2023,WK50,
+Product 7,2023,WK51,
+Product 7,2023,WK52,
+Product 7,2023,WK6,
+Product 7,2023,WK7,
+Product 7,2023,WK8,
+Product 7,2023,WK9,
+#N/A,2023,WK1,
+#N/A,2023,WK10,60
+#N/A,2023,WK11,60
+#N/A,2023,WK12,
+#N/A,2023,WK13,
+#N/A,2023,WK14,
+#N/A,2023,WK15,
+#N/A,2023,WK16,
+#N/A,2023,WK17,
+#N/A,2023,WK18,
+#N/A,2023,WK19,60
+#N/A,2023,WK2,
+#N/A,2023,WK20,60
+#N/A,2023,WK21,60
+#N/A,2023,WK22,
+#N/A,2023,WK23,60
+#N/A,2023,WK24,80
+#N/A,2023,WK25,
+#N/A,2023,WK26,60
+#N/A,2023,WK27,60
+#N/A,2023,WK28,60
+#N/A,2023,WK29,
+#N/A,2023,WK3,
+#N/A,2023,WK30,
+#N/A,2023,WK31,
+#N/A,2023,WK32,
+#N/A,2023,WK33,
+#N/A,2023,WK34,
+#N/A,2023,WK35,
+#N/A,2023,WK36,
+#N/A,2023,WK37,
+#N/A,2023,WK38,
+#N/A,2023,WK39,
+#N/A,2023,WK4,
+#N/A,2023,WK40,
+#N/A,2023,WK41,
+#N/A,2023,WK42,
+#N/A,2023,WK43,
+#N/A,2023,WK44,
+#N/A,2023,WK45,
+#N/A,2023,WK46,
+#N/A,2023,WK47,
+#N/A,2023,WK48,
+#N/A,2023,WK49,
+#N/A,2023,WK5,60
+#N/A,2023,WK50,
+#N/A,2023,WK51,
+#N/A,2023,WK52,
+#N/A,2023,WK6,60
+#N/A,2023,WK7,60
+#N/A,2023,WK8,
+#N/A,2023,WK9,
+Product 9,2023,WK1,80
+Product 9,2023,WK10,50
+Product 9,2023,WK11,50
+Product 9,2023,WK12,50
+Product 9,2023,WK13,50
+Product 9,2023,WK14,50
+Product 9,2023,WK15,50
+Product 9,2023,WK16,50
+Product 9,2023,WK17,
+Product 9,2023,WK18,
+Product 9,2023,WK19,
+Product 9,2023,WK2,
+Product 9,2023,WK20,80
+Product 9,2023,WK21,80
+Product 9,2023,WK22,50
+Product 9,2023,WK23,80
+Product 9,2023,WK24,80
+Product 9,2023,WK25,
+Product 9,2023,WK26,50
+Product 9,2023,WK27,50
+Product 9,2023,WK28,50
+Product 9,2023,WK29,
+Product 9,2023,WK3,
+Product 9,2023,WK30,
+Product 9,2023,WK31,
+Product 9,2023,WK32,
+Product 9,2023,WK33,
+Product 9,2023,WK34,
+Product 9,2023,WK35,
+Product 9,2023,WK36,
+Product 9,2023,WK37,
+Product 9,2023,WK38,
+Product 9,2023,WK39,
+Product 9,2023,WK4,80
+Product 9,2023,WK40,
+Product 9,2023,WK41,
+Product 9,2023,WK42,
+Product 9,2023,WK43,
+Product 9,2023,WK44,
+Product 9,2023,WK45,
+Product 9,2023,WK46,
+Product 9,2023,WK47,
+Product 9,2023,WK48,
+Product 9,2023,WK49,
+Product 9,2023,WK5,50
+Product 9,2023,WK50,
+Product 9,2023,WK51,
+Product 9,2023,WK52,
+Product 9,2023,WK6,
+Product 9,2023,WK7,50
+Product 9,2023,WK8,
+Product 9,2023,WK9,
+Product 1,2024,WK1,10
+Product 2,2024,WK1,5
+Product 3,2024,WK1,10
+Product 4,2024,WK1,0
+Product 5,2024,WK1,0
+Product 6,2024,WK1,0
+Product 7,2024,WK1,30
+#N/A,2024,WK1,80
+Product 9,2024,WK1,80
+Product 1,2024,WK10,0
+Product 2,2024,WK10,0
+Product 3,2024,WK10,0
+Product 4,2024,WK10,0
+Product 5,2024,WK10,0
+Product 6,2024,WK10,0
+Product 7,2024,WK10,0
+#N/A,2024,WK10,0
+Product 9,2024,WK10,80
+Product 1,2024,WK11,0
+Product 2,2024,WK11,5
+Product 3,2024,WK11,0
+Product 4,2024,WK11,0
+Product 5,2024,WK11,0
+Product 6,2024,WK11,0
+Product 7,2024,WK11,0
+#N/A,2024,WK11,0
+Product 9,2024,WK11,80
+Product 1,2024,WK12,0
+Product 2,2024,WK12,5
+Product 3,2024,WK12,0
+Product 4,2024,WK12,0
+Product 5,2024,WK12,0
+Product 6,2024,WK12,0
+Product 7,2024,WK12,0
+#N/A,2024,WK12,0
+Product 9,2024,WK12,50
+Product 1,2024,WK13,0
+Product 2,2024,WK13,5
+Product 3,2024,WK13,0
+Product 4,2024,WK13,0
+Product 5,2024,WK13,0
+Product 6,2024,WK13,0
+Product 7,2024,WK13,0
+#N/A,2024,WK13,0
+Product 9,2024,WK13,0
+Product 1,2024,WK2,0
+Product 2,2024,WK2,0
+Product 3,2024,WK2,0
+Product 4,2024,WK2,0
+Product 5,2024,WK2,0
+Product 6,2024,WK2,0
+Product 7,2024,WK2,30
+#N/A,2024,WK2,0
+Product 9,2024,WK2,0
+Product 1,2024,WK3,0
+Product 2,2024,WK3,0
+Product 3,2024,WK3,0
+Product 4,2024,WK3,0
+Product 5,2024,WK3,0
+Product 6,2024,WK3,0
+Product 7,2024,WK3,30
+#N/A,2024,WK3,0
+Product 9,2024,WK3,0
+Product 1,2024,WK4,10
+Product 2,2024,WK4,0
+Product 3,2024,WK4,0
+Product 4,2024,WK4,0
+Product 5,2024,WK4,0
+Product 6,2024,WK4,0
+Product 7,2024,WK4,30
+#N/A,2024,WK4,0
+Product 9,2024,WK4,0
+Product 1,2024,WK5,10
+Product 2,2024,WK5,0
+Product 3,2024,WK5,0
+Product 4,2024,WK5,0
+Product 5,2024,WK5,0
+Product 6,2024,WK5,0
+Product 7,2024,WK5,30
+#N/A,2024,WK5,80
+Product 9,2024,WK5,80
+Product 1,2024,WK6,10
+Product 2,2024,WK6,5
+Product 3,2024,WK6,0
+Product 4,2024,WK6,0
+Product 5,2024,WK6,0
+Product 6,2024,WK6,0
+Product 7,2024,WK6,0
+#N/A,2024,WK6,60
+Product 9,2024,WK6,50
+Product 1,2024,WK7,0
+Product 2,2024,WK7,5
+Product 3,2024,WK7,0
+Product 4,2024,WK7,0
+Product 5,2024,WK7,0
+Product 6,2024,WK7,0
+Product 7,2024,WK7,0
+#N/A,2024,WK7,60
+Product 9,2024,WK7,50
+Product 1,2024,WK8,0
+Product 2,2024,WK8,5
+Product 3,2024,WK8,0
+Product 4,2024,WK8,0
+Product 5,2024,WK8,0
+Product 6,2024,WK8,0
+Product 7,2024,WK8,0
+#N/A,2024,WK8,0
+Product 9,2024,WK8,0
+Product 1,2024,WK9,0
+Product 2,2024,WK9,0
+Product 3,2024,WK9,0
+Product 4,2024,WK9,0
+Product 5,2024,WK9,0
+Product 6,2024,WK9,0
+Product 7,2024,WK9,0
+#N/A,2024,WK9,0
+Product 9,2024,WK9,0
+Product 1,2024,WK14,0
+Product 2,2024,WK14,5
+Product 3,2024,WK14,0
+Product 4,2024,WK14,0
+Product 5,2024,WK14,0
+Product 6,2024,WK14,0
+Product 7,2024,WK14,0
+#N/A,2024,WK14,0
+Product 9,2024,WK14,50
+Product 1,2024,WK15,0
+Product 2,2024,WK15,5
+Product 3,2024,WK15,0
+Product 4,2024,WK15,0
+Product 5,2024,WK15,0
+Product 6,2024,WK15,0
+Product 7,2024,WK15,0
+#N/A,2024,WK15,0
+Product 9,2024,WK15,50
+Product 1,2024,WK16,0
+Product 2,2024,WK16,5
+Product 3,2024,WK16,0
+Product 4,2024,WK16,0
+Product 5,2024,WK16,0
+Product 6,2024,WK16,0
+Product 7,2024,WK16,0
+#N/A,2024,WK16,0
+Product 9,2024,WK16,50
+Product 1,2024,WK17,0
+Product 2,2024,WK17,5
+Product 3,2024,WK17,0
+Product 4,2024,WK17,0
+Product 5,2024,WK17,0
+Product 6,2024,WK17,0
+Product 7,2024,WK17,0
+#N/A,2024,WK17,0
+Product 9,2024,WK17,0
+Product 1,2024,WK18,0
+Product 2,2024,WK18,0
+Product 3,2024,WK18,0
+Product 4,2024,WK18,0
+Product 5,2024,WK18,0
+Product 6,2024,WK18,0
+Product 7,2024,WK18,0
+#N/A,2024,WK18,0
+Product 9,2024,WK18,0
+Product 1,2024,WK19,0
+Product 2,2024,WK19,0
+Product 3,2024,WK19,0
+Product 4,2024,WK19,0
+Product 5,2024,WK19,0
+Product 6,2024,WK19,0
+Product 7,2024,WK19,0
+#N/A,2024,WK19,60
+Product 9,2024,WK19,0
+Product 1,2024,WK20,10
+Product 2,2024,WK20,0
+Product 3,2024,WK20,0
+Product 4,2024,WK20,0
+Product 5,2024,WK20,0
+Product 6,2024,WK20,0
+Product 7,2024,WK20,0
+#N/A,2024,WK20,60
+Product 9,2024,WK20,80
+Product 1,2024,WK21,0
+Product 1,2024,WK22,0
+Product 1,2024,WK23,0
+Product 1,2024,WK24,0
+Product 1,2024,WK25,0
+Product 1,2024,WK26,0
+Product 1,2024,WK27,0
+Product 1,2024,WK28,0
+Product 1,2024,WK29,0
+Product 1,2024,WK30,0
+Product 1,2024,WK31,0
+Product 1,2024,WK32,0
+Product 1,2024,WK33,0
+Product 1,2024,WK34,10
+Product 1,2024,WK35,10
+Product 1,2024,WK36,10
+Product 1,2024,WK37,10
+Product 1,2024,WK38,0
+Product 1,2024,WK39,0
+Product 2,2024,WK21,0
+Product 2,2024,WK22,0
+Product 2,2024,WK23,0
+Product 2,2024,WK24,0
+Product 2,2024,WK25,0
+Product 2,2024,WK26,0
+Product 2,2024,WK27,0
+Product 2,2024,WK28,0
+Product 2,2024,WK29,0
+Product 2,2024,WK30,0
+Product 2,2024,WK31,0
+Product 2,2024,WK32,0
+Product 2,2024,WK33,0
+Product 2,2024,WK34,5
+Product 2,2024,WK35,5
+Product 2,2024,WK36,5
+Product 2,2024,WK37,5
+Product 2,2024,WK38,0
+Product 2,2024,WK39,0
+Product 3,2024,WK21,0
+Product 3,2024,WK22,0
+Product 3,2024,WK23,0
+Product 3,2024,WK24,0
+Product 3,2024,WK25,0
+Product 3,2024,WK26,0
+Product 3,2024,WK27,0
+Product 3,2024,WK28,0
+Product 3,2024,WK29,0
+Product 3,2024,WK30,0
+Product 3,2024,WK31,0
+Product 3,2024,WK32,0
+Product 3,2024,WK33,0
+Product 3,2024,WK34,0
+Product 3,2024,WK35,0
+Product 3,2024,WK36,0
+Product 3,2024,WK37,0
+Product 3,2024,WK38,0
+Product 3,2024,WK39,0
+Product 4,2024,WK21,0
+Product 4,2024,WK22,0
+Product 4,2024,WK23,0
+Product 4,2024,WK24,0
+Product 4,2024,WK25,0
+Product 4,2024,WK26,0
+Product 4,2024,WK27,0
+Product 4,2024,WK28,0
+Product 4,2024,WK29,0
+Product 4,2024,WK30,0
+Product 4,2024,WK31,0
+Product 4,2024,WK32,0
+Product 4,2024,WK33,0
+Product 4,2024,WK34,0
+Product 4,2024,WK35,0
+Product 4,2024,WK36,0
+Product 4,2024,WK37,0
+Product 4,2024,WK38,0
+Product 4,2024,WK39,0
+Product 5,2024,WK21,0
+Product 5,2024,WK22,0
+Product 5,2024,WK23,0
+Product 5,2024,WK24,0
+Product 5,2024,WK25,0
+Product 5,2024,WK26,0
+Product 5,2024,WK27,0
+Product 5,2024,WK28,0
+Product 5,2024,WK29,0
+Product 5,2024,WK30,0
+Product 5,2024,WK31,0
+Product 5,2024,WK32,0
+Product 5,2024,WK33,0
+Product 5,2024,WK34,0
+Product 5,2024,WK35,0
+Product 5,2024,WK36,0
+Product 5,2024,WK37,0
+Product 5,2024,WK38,0
+Product 5,2024,WK39,0
+Product 6,2024,WK21,0
+Product 6,2024,WK22,0
+Product 6,2024,WK23,0
+Product 6,2024,WK24,0
+Product 6,2024,WK25,0
+Product 6,2024,WK26,0
+Product 6,2024,WK27,0
+Product 6,2024,WK28,0
+Product 6,2024,WK29,0
+Product 6,2024,WK30,0
+Product 6,2024,WK31,0
+Product 6,2024,WK32,0
+Product 6,2024,WK33,0
+Product 6,2024,WK34,0
+Product 6,2024,WK35,0
+Product 6,2024,WK36,0
+Product 6,2024,WK37,0
+Product 6,2024,WK38,0
+Product 6,2024,WK39,0
+Product 7,2024,WK21,0
+Product 7,2024,WK22,0
+Product 7,2024,WK23,0
+Product 7,2024,WK24,0
+Product 7,2024,WK25,0
+Product 7,2024,WK26,0
+Product 7,2024,WK27,0
+Product 7,2024,WK28,0
+Product 7,2024,WK29,0
+Product 7,2024,WK30,0
+Product 7,2024,WK31,0
+Product 7,2024,WK32,0
+Product 7,2024,WK33,0
+Product 7,2024,WK34,0
+Product 7,2024,WK35,0
+Product 7,2024,WK36,0
+Product 7,2024,WK37,0
+Product 7,2024,WK38,0
+Product 7,2024,WK39,0
+#N/A,2024,WK21,0
+#N/A,2024,WK22,0
+#N/A,2024,WK23,60
+#N/A,2024,WK24,80
+#N/A,2024,WK25,0
+#N/A,2024,WK26,80
+#N/A,2024,WK27,80
+#N/A,2024,WK28,80
+#N/A,2024,WK29,0
+#N/A,2024,WK30,0
+#N/A,2024,WK31,80
+#N/A,2024,WK32,0
+#N/A,2024,WK33,0
+#N/A,2024,WK34,80
+#N/A,2024,WK35,80
+#N/A,2024,WK36,60
+#N/A,2024,WK37,0
+#N/A,2024,WK38,0
+#N/A,2024,WK39,60
+Product 9,2024,WK21,0
+Product 9,2024,WK22,0
+Product 9,2024,WK23,0
+Product 9,2024,WK24,0
+Product 9,2024,WK25,0
+Product 9,2024,WK26,0
+Product 9,2024,WK27,50
+Product 9,2024,WK28,80
+Product 9,2024,WK29,0
+Product 9,2024,WK30,0
+Product 9,2024,WK31,50
+Product 9,2024,WK32,0
+Product 9,2024,WK33,0
+Product 9,2024,WK34,80
+Product 9,2024,WK35,80
+Product 9,2024,WK36,50
+Product 9,2024,WK37,50
+Product 9,2024,WK38,0
+Product 9,2024,WK39,0
+Product 1,2024,WK40,0
+Product 1,2024,WK41,15
+Product 1,2024,WK42,10
+Product 1,2024,WK43,10
+Product 1,2024,WK44,0
+Product 1,2024,WK45,0
+Product 1,2024,WK46,15
+Product 1,2024,WK47,15
+Product 1,2024,WK48,15
+Product 1,2024,WK49,15
+Product 1,2024,WK50,15
+Product 1,2024,WK51,15
+Product 1,2024,WK52,10
+Product 1,2025,WK1,10
+Product 1,2025,WK2,0
+Product 1,2025,WK3,0
+Product 1,2025,WK4,0
+Product 1,2025,WK5,0
+Product 1,2025,WK6,0
+Product 1,2025,WK7,0
+Product 1,2025,WK8,0
+Product 1,2025,WK9,0
+Product 1,2025,WK10,10
+Product 1,2025,WK11,10
+Product 1,2025,WK12,10
+Product 1,2025,WK13,10
+Product 1,2025,WK14,
+Product 1,2025,WK15,
+Product 1,2025,WK16,
+Product 1,2025,WK17,
+Product 1,2025,WK18,
+Product 1,2025,WK19,
+Product 1,2025,WK20,
+Product 1,2025,WK21,
+Product 1,2025,WK22,
+Product 1,2025,WK23,
+Product 1,2025,WK24,
+Product 1,2025,WK25,
+Product 1,2025,WK26,
+Product 1,2025,WK27,
+Product 1,2025,WK28,
+Product 1,2025,WK29,
+Product 1,2025,WK30,
+Product 1,2025,WK31,
+Product 1,2025,WK32,
+Product 1,2025,WK33,
+Product 1,2025,WK34,
+Product 1,2025,WK35,
+Product 1,2025,WK36,
+Product 1,2025,WK37,
+Product 1,2025,WK38,
+Product 1,2025,WK39,
+Product 1,2025,WK40,
+Product 1,2025,WK41,
+Product 1,2025,WK42,
+Product 1,2025,WK43,
+Product 1,2025,WK44,
+Product 1,2025,WK45,
+Product 1,2025,WK46,
+Product 1,2025,WK47,
+Product 1,2025,WK48,
+Product 1,2025,WK49,
+Product 1,2025,WK50,
+Product 1,2025,WK51,
+Product 1,2025,WK52,
+Product 2,2024,WK40,0
+Product 2,2024,WK41,5
+Product 2,2024,WK42,5
+Product 2,2024,WK43,5
+Product 2,2024,WK44,0
+Product 2,2024,WK45,0
+Product 2,2024,WK46,8
+Product 2,2024,WK47,8
+Product 2,2024,WK48,8
+Product 2,2024,WK49,5
+Product 2,2024,WK50,10
+Product 2,2024,WK51,10
+Product 2,2024,WK52,10
+Product 2,2025,WK1,5
+Product 2,2025,WK2,0
+Product 2,2025,WK3,0
+Product 2,2025,WK4,0
+Product 2,2025,WK5,0
+Product 2,2025,WK6,0
+Product 2,2025,WK7,0
+Product 2,2025,WK8,0
+Product 2,2025,WK9,5
+Product 2,2025,WK10,5
+Product 2,2025,WK11,5
+Product 2,2025,WK12,5
+Product 2,2025,WK13,5
+Product 2,2025,WK14,
+Product 2,2025,WK15,
+Product 2,2025,WK16,
+Product 2,2025,WK17,
+Product 2,2025,WK18,
+Product 2,2025,WK19,
+Product 2,2025,WK20,
+Product 2,2025,WK21,
+Product 2,2025,WK22,
+Product 2,2025,WK23,
+Product 2,2025,WK24,
+Product 2,2025,WK25,
+Product 2,2025,WK26,
+Product 2,2025,WK27,
+Product 2,2025,WK28,
+Product 2,2025,WK29,
+Product 2,2025,WK30,
+Product 2,2025,WK31,
+Product 2,2025,WK32,
+Product 2,2025,WK33,
+Product 2,2025,WK34,
+Product 2,2025,WK35,
+Product 2,2025,WK36,
+Product 2,2025,WK37,
+Product 2,2025,WK38,
+Product 2,2025,WK39,
+Product 2,2025,WK40,
+Product 2,2025,WK41,
+Product 2,2025,WK42,
+Product 2,2025,WK43,
+Product 2,2025,WK44,
+Product 2,2025,WK45,
+Product 2,2025,WK46,
+Product 2,2025,WK47,
+Product 2,2025,WK48,
+Product 2,2025,WK49,
+Product 2,2025,WK50,
+Product 2,2025,WK51,
+Product 2,2025,WK52,
+Product 3,2024,WK40,
+Product 3,2024,WK41,
+Product 3,2024,WK42,
+Product 3,2024,WK43,
+Product 3,2024,WK44,
+Product 3,2024,WK45,
+Product 3,2024,WK46,
+Product 3,2024,WK47,
+Product 3,2024,WK48,
+Product 3,2024,WK49,
+Product 3,2024,WK50,
+Product 3,2024,WK51,
+Product 3,2024,WK52,
+Product 3,2025,WK1,
+Product 3,2025,WK2,
+Product 3,2025,WK3,
+Product 3,2025,WK4,
+Product 3,2025,WK5,
+Product 3,2025,WK6,
+Product 3,2025,WK7,
+Product 3,2025,WK8,
+Product 3,2025,WK9,
+Product 3,2025,WK10,
+Product 3,2025,WK11,
+Product 3,2025,WK12,
+Product 3,2025,WK13,
+Product 3,2025,WK14,
+Product 3,2025,WK15,
+Product 3,2025,WK16,
+Product 3,2025,WK17,
+Product 3,2025,WK18,
+Product 3,2025,WK19,
+Product 3,2025,WK20,
+Product 3,2025,WK21,
+Product 3,2025,WK22,
+Product 3,2025,WK23,
+Product 3,2025,WK24,
+Product 3,2025,WK25,
+Product 3,2025,WK26,
+Product 3,2025,WK27,
+Product 3,2025,WK28,
+Product 3,2025,WK29,
+Product 3,2025,WK30,
+Product 3,2025,WK31,
+Product 3,2025,WK32,
+Product 3,2025,WK33,
+Product 3,2025,WK34,
+Product 3,2025,WK35,
+Product 3,2025,WK36,
+Product 3,2025,WK37,
+Product 3,2025,WK38,
+Product 3,2025,WK39,
+Product 3,2025,WK40,
+Product 3,2025,WK41,
+Product 3,2025,WK42,
+Product 3,2025,WK43,
+Product 3,2025,WK44,
+Product 3,2025,WK45,
+Product 3,2025,WK46,
+Product 3,2025,WK47,
+Product 3,2025,WK48,
+Product 3,2025,WK49,
+Product 3,2025,WK50,
+Product 3,2025,WK51,
+Product 3,2025,WK52,
+Product 4,2024,WK40,
+Product 4,2024,WK41,
+Product 4,2024,WK42,
+Product 4,2024,WK43,
+Product 4,2024,WK44,
+Product 4,2024,WK45,
+Product 4,2024,WK46,
+Product 4,2024,WK47,
+Product 4,2024,WK48,
+Product 4,2024,WK49,
+Product 4,2024,WK50,
+Product 4,2024,WK51,
+Product 4,2024,WK52,
+Product 4,2025,WK1,
+Product 4,2025,WK2,
+Product 4,2025,WK3,
+Product 4,2025,WK4,
+Product 4,2025,WK5,
+Product 4,2025,WK6,
+Product 4,2025,WK7,
+Product 4,2025,WK8,
+Product 4,2025,WK9,
+Product 4,2025,WK10,
+Product 4,2025,WK11,
+Product 4,2025,WK12,
+Product 4,2025,WK13,
+Product 4,2025,WK14,
+Product 4,2025,WK15,
+Product 4,2025,WK16,
+Product 4,2025,WK17,
+Product 4,2025,WK18,
+Product 4,2025,WK19,
+Product 4,2025,WK20,
+Product 4,2025,WK21,
+Product 4,2025,WK22,
+Product 4,2025,WK23,
+Product 4,2025,WK24,
+Product 4,2025,WK25,
+Product 4,2025,WK26,
+Product 4,2025,WK27,
+Product 4,2025,WK28,
+Product 4,2025,WK29,
+Product 4,2025,WK30,
+Product 4,2025,WK31,
+Product 4,2025,WK32,
+Product 4,2025,WK33,
+Product 4,2025,WK34,
+Product 4,2025,WK35,
+Product 4,2025,WK36,
+Product 4,2025,WK37,
+Product 4,2025,WK38,
+Product 4,2025,WK39,
+Product 4,2025,WK40,
+Product 4,2025,WK41,
+Product 4,2025,WK42,
+Product 4,2025,WK43,
+Product 4,2025,WK44,
+Product 4,2025,WK45,
+Product 4,2025,WK46,
+Product 4,2025,WK47,
+Product 4,2025,WK48,
+Product 4,2025,WK49,
+Product 4,2025,WK50,
+Product 4,2025,WK51,
+Product 4,2025,WK52,
+Product 5,2024,WK40,
+Product 5,2024,WK41,
+Product 5,2024,WK42,
+Product 5,2024,WK43,
+Product 5,2024,WK44,
+Product 5,2024,WK45,
+Product 5,2024,WK46,
+Product 5,2024,WK47,
+Product 5,2024,WK48,
+Product 5,2024,WK49,
+Product 5,2024,WK50,
+Product 5,2024,WK51,
+Product 5,2024,WK52,
+Product 5,2025,WK1,
+Product 5,2025,WK2,
+Product 5,2025,WK3,
+Product 5,2025,WK4,
+Product 5,2025,WK5,
+Product 5,2025,WK6,
+Product 5,2025,WK7,
+Product 5,2025,WK8,
+Product 5,2025,WK9,
+Product 5,2025,WK10,
+Product 5,2025,WK11,
+Product 5,2025,WK12,
+Product 5,2025,WK13,
+Product 5,2025,WK14,
+Product 5,2025,WK15,
+Product 5,2025,WK16,
+Product 5,2025,WK17,
+Product 5,2025,WK18,
+Product 5,2025,WK19,
+Product 5,2025,WK20,
+Product 5,2025,WK21,
+Product 5,2025,WK22,
+Product 5,2025,WK23,
+Product 5,2025,WK24,
+Product 5,2025,WK25,
+Product 5,2025,WK26,
+Product 5,2025,WK27,
+Product 5,2025,WK28,
+Product 5,2025,WK29,
+Product 5,2025,WK30,
+Product 5,2025,WK31,
+Product 5,2025,WK32,
+Product 5,2025,WK33,
+Product 5,2025,WK34,
+Product 5,2025,WK35,
+Product 5,2025,WK36,
+Product 5,2025,WK37,
+Product 5,2025,WK38,
+Product 5,2025,WK39,
+Product 5,2025,WK40,
+Product 5,2025,WK41,
+Product 5,2025,WK42,
+Product 5,2025,WK43,
+Product 5,2025,WK44,
+Product 5,2025,WK45,
+Product 5,2025,WK46,
+Product 5,2025,WK47,
+Product 5,2025,WK48,
+Product 5,2025,WK49,
+Product 5,2025,WK50,
+Product 5,2025,WK51,
+Product 5,2025,WK52,
+Product 6,2024,WK40,
+Product 6,2024,WK41,
+Product 6,2024,WK42,
+Product 6,2024,WK43,
+Product 6,2024,WK44,
+Product 6,2024,WK45,
+Product 6,2024,WK46,
+Product 6,2024,WK47,
+Product 6,2024,WK48,
+Product 6,2024,WK49,
+Product 6,2024,WK50,
+Product 6,2024,WK51,
+Product 6,2024,WK52,
+Product 6,2025,WK1,
+Product 6,2025,WK2,
+Product 6,2025,WK3,
+Product 6,2025,WK4,
+Product 6,2025,WK5,
+Product 6,2025,WK6,
+Product 6,2025,WK7,
+Product 6,2025,WK8,
+Product 6,2025,WK9,
+Product 6,2025,WK10,
+Product 6,2025,WK11,
+Product 6,2025,WK12,
+Product 6,2025,WK13,
+Product 6,2025,WK14,
+Product 6,2025,WK15,
+Product 6,2025,WK16,
+Product 6,2025,WK17,
+Product 6,2025,WK18,
+Product 6,2025,WK19,
+Product 6,2025,WK20,
+Product 6,2025,WK21,
+Product 6,2025,WK22,
+Product 6,2025,WK23,
+Product 6,2025,WK24,
+Product 6,2025,WK25,
+Product 6,2025,WK26,
+Product 6,2025,WK27,
+Product 6,2025,WK28,
+Product 6,2025,WK29,
+Product 6,2025,WK30,
+Product 6,2025,WK31,
+Product 6,2025,WK32,
+Product 6,2025,WK33,
+Product 6,2025,WK34,
+Product 6,2025,WK35,
+Product 6,2025,WK36,
+Product 6,2025,WK37,
+Product 6,2025,WK38,
+Product 6,2025,WK39,
+Product 6,2025,WK40,
+Product 6,2025,WK41,
+Product 6,2025,WK42,
+Product 6,2025,WK43,
+Product 6,2025,WK44,
+Product 6,2025,WK45,
+Product 6,2025,WK46,
+Product 6,2025,WK47,
+Product 6,2025,WK48,
+Product 6,2025,WK49,
+Product 6,2025,WK50,
+Product 6,2025,WK51,
+Product 6,2025,WK52,
+Product 7,2024,WK40,
+Product 7,2024,WK41,
+Product 7,2024,WK42,
+Product 7,2024,WK43,
+Product 7,2024,WK44,
+Product 7,2024,WK45,
+Product 7,2024,WK46,
+Product 7,2024,WK47,
+Product 7,2024,WK48,
+Product 7,2024,WK49,
+Product 7,2024,WK50,
+Product 7,2024,WK51,
+Product 7,2024,WK52,
+Product 7,2025,WK1,
+Product 7,2025,WK2,
+Product 7,2025,WK3,
+Product 7,2025,WK4,
+Product 7,2025,WK5,
+Product 7,2025,WK6,
+Product 7,2025,WK7,
+Product 7,2025,WK8,
+Product 7,2025,WK9,
+Product 7,2025,WK10,
+Product 7,2025,WK11,
+Product 7,2025,WK12,
+Product 7,2025,WK13,
+Product 7,2025,WK14,
+Product 7,2025,WK15,
+Product 7,2025,WK16,
+Product 7,2025,WK17,
+Product 7,2025,WK18,
+Product 7,2025,WK19,
+Product 7,2025,WK20,
+Product 7,2025,WK21,
+Product 7,2025,WK22,
+Product 7,2025,WK23,
+Product 7,2025,WK24,
+Product 7,2025,WK25,
+Product 7,2025,WK26,
+Product 7,2025,WK27,
+Product 7,2025,WK28,
+Product 7,2025,WK29,
+Product 7,2025,WK30,
+Product 7,2025,WK31,
+Product 7,2025,WK32,
+Product 7,2025,WK33,
+Product 7,2025,WK34,
+Product 7,2025,WK35,
+Product 7,2025,WK36,
+Product 7,2025,WK37,
+Product 7,2025,WK38,
+Product 7,2025,WK39,
+Product 7,2025,WK40,
+Product 7,2025,WK41,
+Product 7,2025,WK42,
+Product 7,2025,WK43,
+Product 7,2025,WK44,
+Product 7,2025,WK45,
+Product 7,2025,WK46,
+Product 7,2025,WK47,
+Product 7,2025,WK48,
+Product 7,2025,WK49,
+Product 7,2025,WK50,
+Product 7,2025,WK51,
+Product 7,2025,WK52,
+#N/A,2024,WK40,60
+#N/A,2024,WK41,80
+#N/A,2024,WK42,60
+#N/A,2024,WK43,80
+#N/A,2024,WK44,
+#N/A,2024,WK45,
+#N/A,2024,WK46,100
+#N/A,2024,WK47,100
+#N/A,2024,WK48,100
+#N/A,2024,WK49,80
+#N/A,2024,WK50,100
+#N/A,2024,WK51,100
+#N/A,2024,WK52,80
+#N/A,2025,WK1,80
+#N/A,2025,WK2,0
+#N/A,2025,WK3,0
+#N/A,2025,WK4,0
+#N/A,2025,WK5,80
+#N/A,2025,WK6,60
+#N/A,2025,WK7,60
+#N/A,2025,WK8,0
+#N/A,2025,WK9,0
+#N/A,2025,WK10,80
+#N/A,2025,WK11,80
+#N/A,2025,WK12,60
+#N/A,2025,WK13,0
+#N/A,2025,WK14,
+#N/A,2025,WK15,
+#N/A,2025,WK16,
+#N/A,2025,WK17,
+#N/A,2025,WK18,
+#N/A,2025,WK19,
+#N/A,2025,WK20,
+#N/A,2025,WK21,
+#N/A,2025,WK22,
+#N/A,2025,WK23,
+#N/A,2025,WK24,
+#N/A,2025,WK25,
+#N/A,2025,WK26,
+#N/A,2025,WK27,
+#N/A,2025,WK28,
+#N/A,2025,WK29,
+#N/A,2025,WK30,
+#N/A,2025,WK31,
+#N/A,2025,WK32,
+#N/A,2025,WK33,
+#N/A,2025,WK34,
+#N/A,2025,WK35,
+#N/A,2025,WK36,
+#N/A,2025,WK37,
+#N/A,2025,WK38,
+#N/A,2025,WK39,
+#N/A,2025,WK40,
+#N/A,2025,WK41,
+#N/A,2025,WK42,
+#N/A,2025,WK43,
+#N/A,2025,WK44,
+#N/A,2025,WK45,
+#N/A,2025,WK46,
+#N/A,2025,WK47,
+#N/A,2025,WK48,
+#N/A,2025,WK49,
+#N/A,2025,WK50,
+#N/A,2025,WK51,
+#N/A,2025,WK52,
+Product 9,2024,WK40,0
+Product 9,2024,WK41,80
+Product 9,2024,WK42,80
+Product 9,2024,WK43,80
+Product 9,2024,WK44,
+Product 9,2024,WK45,
+Product 9,2024,WK46,100
+Product 9,2024,WK47,100
+Product 9,2024,WK48,100
+Product 9,2024,WK49,80
+Product 9,2024,WK50,80
+Product 9,2024,WK51,100
+Product 9,2024,WK52,100
+Product 9,2025,WK1,80
+Product 9,2025,WK2,0
+Product 9,2025,WK3,0
+Product 9,2025,WK4,0
+Product 9,2025,WK5,80
+Product 9,2025,WK6,50
+Product 9,2025,WK7,50
+Product 9,2025,WK8,0
+Product 9,2025,WK9,0
+Product 9,2025,WK10,80
+Product 9,2025,WK11,80
+Product 9,2025,WK12,50
+Product 9,2025,WK13,0
+Product 9,2025,WK14,
+Product 9,2025,WK15,
+Product 9,2025,WK16,
+Product 9,2025,WK17,
+Product 9,2025,WK18,
+Product 9,2025,WK19,
+Product 9,2025,WK20,
+Product 9,2025,WK21,
+Product 9,2025,WK22,
+Product 9,2025,WK23,
+Product 9,2025,WK24,
+Product 9,2025,WK25,
+Product 9,2025,WK26,
+Product 9,2025,WK27,
+Product 9,2025,WK28,
+Product 9,2025,WK29,
+Product 9,2025,WK30,
+Product 9,2025,WK31,
+Product 9,2025,WK32,
+Product 9,2025,WK33,
+Product 9,2025,WK34,
+Product 9,2025,WK35,
+Product 9,2025,WK36,
+Product 9,2025,WK37,
+Product 9,2025,WK38,
+Product 9,2025,WK39,
+Product 9,2025,WK40,
+Product 9,2025,WK41,
+Product 9,2025,WK42,
+Product 9,2025,WK43,
+Product 9,2025,WK44,
+Product 9,2025,WK45,
+Product 9,2025,WK46,
+Product 9,2025,WK47,
+Product 9,2025,WK48,
+Product 9,2025,WK49,
+Product 9,2025,WK50,
+Product 9,2025,WK51,
+Product 9,2025,WK52,
