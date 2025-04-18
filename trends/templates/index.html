@@ -1,1 +1,37 @@
+<!DOCTYPE html>
+<html>
 
+<head>
+    <title>Future Sales Prediction and User Assistance</title>
+    <script>
+        function getPrediction() {
+            var productName = document.getElementById("product_name").value;
+
+            fetch("/predict", {
+                method: "POST",
+                body: new URLSearchParams({
+                    "product_name": productName,
+                }),
+                headers: { "Content-Type": "application/x-www-form-urlencoded" }
+            })
+            .then(response => response.json())
+            .then(data => {
+                if (data.status === "success") {
+                    document.getElementById("sales_chart").src = "data:image/png;base64," + data.image;
+                } else {
+                    alert(data.message);
+                }
+            });
+        }
+
+    </script>
+</head>
+
+<body>
+    <h1>Trend Data Prediction </h1>
+    <h2>Enter Product Name</h2> <label>Product Name:</label> <input type="text" id="product_name"> <br><br> <button
+        onclick="getPrediction()">Predict Sales</button>
+    <h2>Trend Data Result</h2> <img id="sales_chart" src="" alt="Sales Prediction Graph"> <br>
+</body>
+
+</html>
