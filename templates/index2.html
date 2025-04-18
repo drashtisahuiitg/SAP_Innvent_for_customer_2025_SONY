@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Flask Dashboard</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script> <!-- Chart.js Library -->
+</head>
+<body>
+    <h1>Dashboard is Working!</h1>
+
+    <!-- Dealer-wise Pie Chart -->
+    <div style="width: 50%; margin: auto;">
+        <canvas id="dealerPieChart"></canvas>
+    </div>
+
+    <script>
+        // Data passed from Flask
+        var dealerData = JSON.parse('{{ dealer_data | tojson | safe }}');
+
+        var ctx = document.getElementById("dealerPieChart").getContext("2d");
+        var dealerChart = new Chart(ctx, {
+            type: "pie",
+            data: {
+                labels: dealerData.labels,
+                datasets: [{
+                    data: dealerData.values,
+                    backgroundColor: ["#FF6384", "#36A2EB", "#FFCE56", "#8BC34A", "#9C27B0", "#FF5722"]
+                }]
+            },
+            options: {
+                responsive: true
+            }
+        });
+    </script>
+
+</body>
+</html>

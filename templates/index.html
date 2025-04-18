@@ -1,0 +1,194 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sales Prediction Dashboard</title>
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+        }
+        .container {
+            display: flex;
+            justify-content: space-between;
+            margin-top: 20px;
+        }
+        .left {
+            flex: 60%;
+            padding: 10px;
+        }
+        .right {
+            flex: 40%;
+            padding: 10px;
+        }
+        .dropdown {
+            margin-top: 10px;
+            border: 1px solid #ddd;
+            background-color: #f9f9f9;
+            border-radius: 8px;
+        }
+        .dropdown-header {
+            padding: 10px;
+            cursor: pointer;
+            font-weight: bold;
+            background-color: #e0e0e0;
+            border-bottom: 1px solid #ddd;
+        }
+        .dropdown-content {
+            display: none;
+            padding: 10px;
+        }
+        .chatbox {
+            height: 120px;
+            overflow-y: auto;
+            border: 1px solid #ccc;
+            padding: 8px;
+            background-color: #fff;
+            font-size: 14px;
+        }
+        .chat-form {
+            display: flex;
+            margin-top: 10px;
+        }
+        .chat-form input {
+            flex: 1;
+            padding: 8px;
+            font-size: 14px;
+        }
+        .chat-form button {
+            padding: 8px;
+            font-size: 14px;
+            cursor: pointer;
+        }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-top: 10px;
+        }
+        th, td {
+            border: 1px solid #ddd;
+            padding: 8px;
+            text-align: center;
+        }
+        th {
+            background-color: #f4f4f4;
+        }
+    </style>
+</head>
+<body>
+
+<h2>Sales Prediction Dashboard</h2>
+
+<form id="predictionForm">
+    <label for="product_name">Product Name:</label>
+    <select name="product_name" id="product_name">
+        <option value="Product 1">Product 1</option>
+        <option value="Product 2">Product 2</option>
+        <option value="Product 3">Product 3</option>
+        <option value="Product 4">Product 4</option>
+        <option value="Product 5">Product 5</option>
+        <option value="Product 6">Product 6</option>
+        <option value="Product 7">Product 7</option>
+        <option value="Product 8">Product 8</option>
+        <option value="Product 9">Product 9</option>
+      </select>
+    <hr>
+    <label for="start_month">Start Month:</label>
+    <input type="number" id="start_month" name="start_month" min="1" max="12" value="5" required>
+
+    <label for="start_year">Start Year:</label>
+    <input type="number" id="start_year" name="start_year" value="2025"required>
+    
+    <label for="end_month">End Month:</label>
+    <input type="number" id="end_month" name="end_month" min="1" max="12" value="12" required>
+
+
+    <label for="end_year">End Year:</label>
+    <input type="number" id="end_year" name="end_year" value="2025" required>
+    <hr>
+    <button type="submit">Predict Sales</button>
+</form>
+
+<div class="container">
+    <div class="left">
+        <h3>Sales Chart</h3>
+        <img id="chart" style="display:none; width:100%;">
+    </div>
+    <div class="right">
+        
+        <!-- Monthly Sales Table Dropdown -->
+        <div class="dropdown">
+            <div class="dropdown-header" onclick="toggleDropdown('tableContent')">📋 Monthly Sales Table ▼</div>
+            <div class="dropdown-content" id="tableContent">
+                <div id="tableContainer"></div>
+            </div>
+        </div>
+
+        <!-- Chatbot Dropdown -->
+        <div class="dropdown">
+            <div class="dropdown-header" onclick="toggleDropdown('chatContent')">🤖 Sales Chatbot ▼</div>
+            <div class="dropdown-content" id="chatContent">
+                <div class="chatbox" id="chatbox"></div>
+                <form id="chatForm" class="chat-form">
+                    <input type="text" id="message" name="message" placeholder="Ask about sales trends..." required>
+                    <button type="submit">Ask</button>
+                </form>
+            </div>
+        </div>
+
+    </div>
+</div>
+
+<script>
+    function toggleDropdown(id) {
+        var content = document.getElementById(id);
+        if (content.style.display === "none" || content.style.display === "") {
+            content.style.display = "block";
+        } else {
+            content.style.display = "none";
+        }
+    }
+
+    $(document).ready(function() {
+        $("#predictionForm").submit(function(event) {
+            event.preventDefault();
+            $("#chart").hide();
+            $("#tableContainer").html("");
+
+            $.ajax({
+                url: "/predict",
+                type: "POST",
+                data: $(this).serialize(),
+                success: function(response) {
+                    if (response.status === "success") {
+                        $("#chart").attr("src", "data:image/png;base64," + response.image).show();
+                        $("#tableContainer").html(response.table);
+                    } else {
+                        alert(response.message);
+                    }
+                },
+                error: function() {
+                    alert("Error processing request. Please try again.");
+                }
+            });
+        });
+
+        $("#chatForm").submit(function(event) {
+            event.preventDefault();
+            $.ajax({
+                url: "/chat",
+                type: "POST",
+                data: $(this).serialize(),
+                success: function(response) {
+                    $("#chatbox").append("<p><strong>You:</strong> " + $("#message").val() + "</p>");
+                    $("#chatbox").append("<p><strong>Bot:</strong> " + response.response + "</p>");
+                    $("#message").val("");
+                }
+            });
+        });
+    });
+</script>
+
+</body>
+</html>

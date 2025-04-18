@@ -1,1 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Flask Dashboard</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script> <!-- Chart.js Library -->
+</head>
+<body>
+    <div class="container">
+        <h1>Sales Dashboard</h1>
 
+        <div class="grid">
+            <!-- Time Series Forecast Chart -->
+            <div class="card">
+                <h2>Time Series Forecast</h2>
+                <canvas id="forecastChart"></canvas>
+            </div>
+
+            <!-- Dealer-wise Pie Chart -->
+            <div class="card">
+                <h2>Dealer-wise Analysis</h2>
+                <canvas id="dealerPieChart"></canvas>
+            </div>
+        </div>
+
+        <!-- Future Recommendations -->
+        <div class="recommendations">
+            <h2>Future Recommendations</h2>
+            <ul>
+                <li>📉 Offer discounts in slow-moving regions</li>
+                <li>🛒 Optimize dealer partnerships based on sales</li>
+                <li>📍 Focus advertising in high-potential regions</li>
+                <li>💰 Increase stock in peak sales months</li>
+            </ul>
+        </div>
+    </div>
+
+    <script>
+        // Data from Flask
+        var dealerData = JSON.parse('{{ dealer_data | tojson | safe }}');
+        var forecastData = JSON.parse('{{ forecast_data | tojson | safe }}');
+
+        // Dealer-wise Pie Chart
+        var ctx1 = document.getElementById("dealerPieChart").getContext("2d");
+        new Chart(ctx1, {
+            type: "pie",
+            data: {
+                labels: dealerData.labels,
+                datasets: [{
+                    data: dealerData.values,
+                    backgroundColor: ["#FF6384", "#36A2EB", "#FFCE56", "#8BC34A"]
+                }]
+            },
+            options: { responsive: true }
+        });
+
+        // Time Series Forecast Chart
+        var ctx2 = document.getElementById("forecastChart").getContext("2d");
+        new Chart(ctx2, {
+            type: "line",
+            data: {
+                labels: forecastData.labels,
+                datasets: [
+                    {
+                        label: "Historical Sales",
+                        data: forecastData.historical_values,
+                        borderColor: "blue",
+                        fill: false
+                    },
+                    {
+                        label: "Forecasted Sales",
+                        data: forecastData.forecast_values,
+                        borderColor: "red",
+                        borderDash: [5, 5], // Dashed line for forecast
+                        fill: false
+                    }
+                ]
+            },
+            options: { responsive: true }
+        });
+    </script>
+
+</body>
+</html>
