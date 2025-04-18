@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Future Sales Prediction and User Assistance</title>
+    <script>
+        function getPrediction() {
+            var productName = document.getElementById("product_name").value;
+            var startMonth = document.getElementById("start_month").value;
+            var endMonth = document.getElementById("end_month").value;
+            var startYear = document.getElementById("start_year").value;
+            var endYear = document.getElementById("end_year").value;
+
+            fetch("/predict", {
+                method: "POST",
+                body: new URLSearchParams({ 
+                    "product_name": productName,
+                    "start_month": startMonth,
+                    "end_month": endMonth,
+                    "start_year": startYear,
+                    "end_year": endYear
+                }),
+                headers: { "Content-Type": "application/x-www-form-urlencoded" }
+            })
+            .then(response => response.json())
+            .then(data => {
+                if (data.status === "success") {
+                    document.getElementById("sales_chart").src = "data:image/png;base64," + data.image;
+                } else {
+                    alert(data.message);
+                }
+            });
+        }
+
+        function sendMessage() {
+            var userMessage = document.getElementById("chat_input").value;
+
+            fetch("/chat", {
+                method: "POST",
+                body: new URLSearchParams({ "message": userMessage }),
+                headers: { "Content-Type": "application/x-www-form-urlencoded" }
+            })
+            .then(response => response.json())
+            .then(data => {
+                var chatBox = document.getElementById("chat_box");
+                chatBox.innerHTML += "<p><b>You:</b> " + userMessage + "</p>";
+                chatBox.innerHTML += "<p><b>Chatbot:</b> " + data.response + "</p>";
+                document.getElementById("chat_input").value = "";
+            });
+        }
+    </script>
+</head>
+<body>
+    <h1>Sales Prediction & Chatbot</h1>
+
+    <h2>Enter Product Name & Time Window</h2>
+    <label>Product Name:</label>
+    <input type="text" id="product_name">
+    <br><br>
+
+    <label>Start Month:</label>
+    <input type="number" id="start_month" min="1" max="12">
+    <label>End Month:</label>
+    <input type="number" id="end_month" min="1" max="12">
+    <br><br>
+
+    <label>Start Year:</label>
+    <input type="number" id="start_year" min="2000" max="2100">
+    <label>End Year:</label>
+    <input type="number" id="end_year" min="2000" max="2100">
+    <br><br>
+
+    <button onclick="getPrediction()">Predict Sales</button>
+
+    <h2>Prediction Result</h2>
+    <img id="sales_chart" src="" alt="Sales Prediction Graph">
+
+    <h2>Sales Analysis Chatbot</h2>
+    <div id="chat_box" style="border:1px solid black; padding:10px; width:300px; height:200px; overflow:auto;"></div>
+    <br>
+    <input type="text" id="chat_input">
+    <button onclick="sendMessage()">Ask</button>
+</body>
+</html>
